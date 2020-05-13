@@ -1,0 +1,247 @@
+genename	relation	PTOterm	distance
+nhx1	suggest	salt tolerance	4
+grf1	identified	gibberellin response	4
+edr1	suppress	ethylene response	4
+ein2	suppress	ethylene response	6
+edr1	isolated	ethylene response	8
+ctr1	isolated	ethylene response	6
+incw1	showed	acid invertase	4
+incw2	showed	acid invertase	5
+incw1	respectively	betafructosidase	3
+incw2	respectively	betafructosidase	4
+act1	was	root activity	3
+rbcs	was	root activity	6
+hdac1	leads	plant phenotype	5
+ald1	have	disease susceptibility	6
+nhx1	improved	salt tolerance	3
+nhx1	suggest	salt tolerance	4
+xipi	indicate	enzymatic activity	6
+lsd1	accelerated	chlorophyll content	5
+pin1	inhibited	plant phenotype	3
+pin1	resulted	tiller number	5
+isi1	is	abscisic acid response	6
+abi4	is	abscisic acid response	5
+spy	correlated	plant phenotype	4
+spindly	correlated	plant phenotype	4
+spy	correlated	plant phenotype	5
+spy	showed	plant phenotype	3
+sos11	suppressed	salt sensitivity	4
+sos	suppressed	salt sensitivity	3
+sos1	OsCIPK24	salt sensitivity	4
+sos	OsCIPK24	salt sensitivity	4
+pmm	increased	protein content	5
+nadpme2	NaCl	ms	4
+nadpme2	suggest	stress tolerance	6
+nadpme2	suggest	salt tolerance	6
+npr1	needed	disease resistance	2
+npr1	enhanced	disease resistance	2
+npr1	enhanced	disease susceptibility	4
+npr1	enhanced	bacterial disease resistance	3
+npr1	enhanced	bacterial blight disease resistance	4
+dmc1	grew	pollen sterility	5
+dmc1	grew	spikelet sterility	5
+kat1	showed	salt tolerance	5
+kat1	suggest	stress tolerance	4
+kat1	suggest	salt tolerance	4
+atspo111	demonstrates	stress tolerance	6
+psy	showed	aba response	3
+psy	is	root yield	4
+sgt1	Consistent	auxin sensitivity	4
+sgt1	Consistent	plant phenotype	2
+sgt1	suggest	disease resistance	4
+sgt1	provides	disease resistance	5
+dynamin	indicated	plant phenotype	4
+rack1	shown	disease resistance	7
+rim11	remained	leafhopper	5
+atjmt	filling	spikelet number	4
+atjmt	altered	anther number	2
+atjmt	altered	spikelet number	4
+atjmt	altered	pistil number	3
+atjmt	altered	lodicule number	4
+atjmt	reproduced	panicle number	3
+atjmt	inhibited	spikelet number	5
+atjmt	inhibited	grain number	7
+cyp2	propose	stress tolerance	6
+cyp2	propose	abiotic stress tolerance	6
+rck	indicated	pollen fertility	5
+ssi2	suggest	disease resistance	4
+bak1	resulted	plant phenotype	4
+bak1	changed	disease resistance	7
+bak1	changed	disease resistance trait	5
+bak1	changed	height trait	5
+bak1	changed	plant height	7
+bak1	changed	plant trait	4
+bak1	changed	leaf height	7
+atbbd1	complemented	plant phenotype	2
+atbbd1	complemented	plant phenotype	2
+pho1	was	nutrient deficiency	4
+wrky72	found	disease resistance	6
+sps1	showed	enzymatic activity	3
+siz1	complemented	plant phenotype	2
+siz1	complemented	plant phenotype	3
+edr1	complemented	plant phenotype	2
+nhx1	studied	root activity	4
+nhx1	localized	root activity	4
+stmyb1r1	improved	stress trait	7
+stmyb1r1	improved	plant trait	7
+pdk1	show	disease resistance	7
+pdk1	suggest	disease resistance	3
+pdi	indicate	pb	6
+nrt2	identified	nitrate transport	3
+sdir1	found	drought tolerance	4
+sdir1	showed	drought tolerance	4
+sfr6	restored	stress tolerance	6
+atsfr6	restored	stress tolerance	5
+atsfr6	is	stress tolerance	4
+atsfr6	is	abiotic stress tolerance	4
+spo11	revealed	enzymatic activity	3
+myb80	used	reversible male sterility	6
+myb80	used	male sterility	6
+svp	analyzed	plant phenotype	3
+asr1	acid	stress tolerance	6
+asr1	acid	abiotic stress tolerance	7
+rte1	decided	plant aspect	4
+rte1	be	ethylene response	4
+coi1	phenocopies	plant phenotype	4
+jaz9	phenocopies	plant phenotype	4
+rga	phenocopies	plant phenotype	5
+pif3	phenocopies	plant phenotype	6
+u12	complemented	plant phenotype	3
+ddm1	studied	plant aspect	3
+lec1	indicate	meristem identity	6
+lec1	indicate	spikelet meristem identity	5
+fus3	binds	ry	5
+fus3	binds	seed maturation	5
+prr37	revealed	head date	4
+mre11	exhibited	seed set	4
+rap2.6	had	blast disease resistance	4
+rap2.6	had	disease resistance	4
+ethe1	induced	oxidative stress	7
+atrpk1	exhibited	salt tolerance	5
+rpk1	exhibited	salt tolerance	5
+rpk1	contribute	plant phenotype	3
+mir164	described	drought resistance	5
+mir164	suggest	drought tolerance	7
+ps1	reduced	aba content	5
+aba2	showed	aba response	9
+akt1	carry	plant phenotype	2
+akt1	carry	plant phenotype	2
+akt1	showed	plant phenotype	3
+coi1	showed	spikelet fertility	6
+coi1	showed	spikelet fertility	5
+coi1	showed	spikelet weight	6
+coi1	showed	spikelet weight	5
+coi1	showed	grain weight	7
+coi1	showed	grain weight	6
+suv3	zeatin	gibberellic acid content	4
+suv3	zeatin	root as content	4
+suv3	In	plant hormone response	4
+myb80	results	male sterility	6
+shr	are	root number	3
+sec24	found	root number	5
+sec24	found	root length	4
+cold1	is	cold tolerance	3
+atpao5	rescue	plant phenotype	4
+el5	increased	cytokinin content	4
+mel5	increased	cytokinin content	4
+kasi	resulted	seed fertility	5
+hrd3	reduced	endosperm quality	5
+eil1	improves	salt tolerance	3
+eil1	is	salt tolerance	4
+eil1	promotes	grain size	4
+eil1	provides	ethylene response	3
+myb58	shown	lignin biosynthesis	5
+myb63	shown	lignin biosynthesis	5
+myb58	is	lignin biosynthesis	7
+myb63	is	lignin biosynthesis	7
+aux1	result	auxin content	3
+aux1	enhanced	oxygen sensitivity	4
+d27	inhibited	shoot branching	4
+ccd7	inhibited	shoot branching	5
+pgk	indicate	stress tolerance	4
+pgk	indicate	salt tolerance	4
+atcyp194	confirmed	an	6
+fdc2	exhibited	plant phenotype	4
+fdc2	exhibited	plant color	4
+fdc2	suggest	head date	7
+fdc2	suggest	chlorophyll content	6
+fdc2	suggest	photosynthetic rate	5
+rcn1	involves	aba response	4
+sro1	suggests	stress tolerance	5
+sro1	suggests	abiotic stress tolerance	5
+ccd1	affects	salt tolerance	5
+det1	had	plant phenotype	6
+det1	exhibited	plant phenotype	2
+ald1	were	gm	3
+ald1	conclude	blast disease resistance	6
+ald1	conclude	disease resistance	6
+dex1	delayed	pollen sterility	5
+dex1	delayed	male sterility	6
+dep1	used	genetic trait	4
+cer2	resulted	cell length	5
+sps1	showed	carbohydrate content	5
+sps1	showed	sps	7
+pi54	developed	genetic trait	7
+shr	demonstrate	root number	3
+atshr	demonstrate	root number	3
+sard1	downregulated	plant phenotype	5
+sard1	examined	plant phenotype	3
+sard1	were	plant height	2
+siz1	stresses	drought sensitivity	5
+siz1	stresses	salt sensitivity	5
+ice1	enhanced	cold tolerance	3
+ice1	showed	cold tolerance	4
+ice1	demonstrated	cold tolerance	5
+sqd2	exhibited	seed set	5
+sqd2	exhibited	tiller number	5
+hy5	cause	plant height	7
+otub1	enhances	tiller number	7
+otub1	enhances	grain weight	7
+otub1	enhances	grain number	7
+tor	revealed	shoot meristem development	5
+tor	revealed	root meristem development	5
+tor	revealed	shoot apical meristem development	5
+lazy1	is	branch angle	5
+hth	suggested	pollen fertility	5
+sams	protein	enzymatic activity	5
+sams1	protein	enzymatic activity	5
+mir159	showed	plant cell size	3
+mir159	showed	cell division cycle	6
+lap6	exhibited	male sterility	3
+bon1	In	disease resistance	2
+myc2	showed	disease resistance	5
+myc2	showed	bacterial disease resistance	6
+an3	indicate	leaf size	9
+an3	demonstrated	leaf size	7
+cer1	led	pollen sterility	7
+npr1	regulate	disease resistance	6
+hd1	analyzed	flower type	4
+hd1	analyzed	flower type	4
+dth8	analyzed	flower type	4
+ghd7	analyzed	flower type	4
+ehd1	analyzed	flower type	4
+rft1	analyzed	flower type	3
+hd3a	analyzed	flower type	4
+dep1	uncovered	grain number	4
+tkpr1	reduced	pollen sterility	7
+tkpr1	reduced	male sterility	8
+eds1	suggesting	disease resistance	7
+eds1	modulates	disease resistance	3
+eds1	required	disease resistance	4
+ago1	caused	plant height	6
+ago1	caused	tiller number	5
+ago1	caused	plant phenotype	4
+pin1	had	branch angle	5
+rbr	caused	organ identity	2
+miz1	stress	stress tolerance	3
+miz1	stress	drought tolerance	2
+miz1	stress	salt tolerance	3
+peroxidase	showed	cu content	4
+peroxidase	showed	root cu content	3
+qph1osga20ox2	identified	yield trait	4
+osmads50	identified	yield trait	3
+osnas3	identified	yield trait	4
+sex4	used	straw yield	3
+gpt	used	starch yield	5
+ga1	reduced	ga content	3
+rpe	have	plant phenotype	2

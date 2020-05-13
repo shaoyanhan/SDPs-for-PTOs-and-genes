@@ -1,0 +1,1600 @@
+PMID	gene_id	gene_name	gene_time	PTO	term	PTO_time
+15247409	829409	['PcMYB1']	1	TO:0000436	spikelet sterility|SPKST	2
+15247409	829409	['PcMYB1']	1	TO:0000053	pollen sterility	1
+15247409	829409	['PcMYB1']	1	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+15247409	829409	['PcMYB1']	1	TO:0000881	flower type	1
+23053072	851539	['GPD1']	1	TO:0002657	oxidative stress	2
+23053072	851539	['GPD1']	1	TO:0000259	heat tolerance|HTol	1
+23053072	851539	['GPD1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+23053072	57716	['Prx']	1	TO:0002657	oxidative stress	2
+23053072	57716	['Prx']	1	TO:0000259	heat tolerance|HTol	1
+23053072	57716	['Prx']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+12795701	2768981	['Trl']	1	TO:0000492	leaf shape|LFSHP	1
+20424856	831417	['COBRA-like 4', 'COBL4']	1	TO:0000993	cellulose content	2
+20424856	831417	['COBRA-like 4', 'COBL4']	1	TO:0000051	stem strength|Cs|culm strength|CULMSTR|STEMSTR	1
+12445121	100037489	['C-6 oxidase', 'DWARF']	4	TO:0006036	stem elongation	2
+18042724	821717	['CERK1', 'cerk1']	7	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+15598797	836554	['NPH3']	4	TO:0002650	phototropism response trait|coleoptile curvature|coleoptile phototropism	1
+15598797	4329720	['cpt1', 'CPT1']	12	TO:0002650	phototropism response trait|coleoptile curvature|coleoptile phototropism	1
+21418356	817212	['CYP734A1', 'BAS1']	4	TO:0002676	brassinosteroid content|BRCN	1
+21418356	838276	['CYP72C1', 'SOB7', 'CHI2', 'SHK1']	4	TO:0002676	brassinosteroid content|BRCN	1
+21278127	5034	['protein disulfide isomerase', 'Protein disulfide isomerase', 'PDI']	4	TO:0000477	panicle blast disease resistance|PB|PNBLRS	2
+21278127	5034	['protein disulfide isomerase', 'Protein disulfide isomerase', 'PDI']	4	TO:0000717	rough endosperm	1
+21278127	26952	['PB-I']	4	TO:0000477	panicle blast disease resistance|PB|PNBLRS	2
+21278127	26952	['PB-I']	4	TO:0000717	rough endosperm	1
+24498271	4340746	['HD1']	2	TO:0000171	height trait	1
+24498271	4340746	['HD1']	2	TO:0000207	plant height|Ht|PTHT|shoot height	1
+24498271	4340746	['HD1']	2	TO:0000371	yield trait|YLD	1
+24498271	4340746	['HD1']	2	TO:0000387	plant trait|plant phenotype|plant quality	2
+24498271	4340746	['HD1']	2	TO:0000396	grain yield trait|GRYLD|Yld	1
+23581288	838800	['LEC1']	1	TO:0000153	relative yield|RELYLD|RY	1
+23581288	838800	['LEC1']	1	TO:0002661	seed maturation|asynchronous seed maturation|nonsynchronous seed maturation|SDMT|synchronous seed maturation	1
+23581288	838800	['LEC1']	1	TO:0000333	sugar content|SUGARCN	1
+23581288	838800	['LEC1']	1	TO:0000696	starch content|STARCHCN	1
+23581288	834818	['L1L', 'LEC1-like)']	2	TO:0000153	relative yield|RELYLD|RY	1
+23581288	834818	['L1L', 'LEC1-like)']	2	TO:0002661	seed maturation|asynchronous seed maturation|nonsynchronous seed maturation|SDMT|synchronous seed maturation	1
+23581288	834818	['L1L', 'LEC1-like)']	2	TO:0000333	sugar content|SUGARCN	1
+23581288	834818	['L1L', 'LEC1-like)']	2	TO:0000696	starch content|STARCHCN	1
+23581288	839724	['LEC2']	2	TO:0000153	relative yield|RELYLD|RY	1
+23581288	839724	['LEC2']	2	TO:0002661	seed maturation|asynchronous seed maturation|nonsynchronous seed maturation|SDMT|synchronous seed maturation	1
+23581288	839724	['LEC2']	2	TO:0000333	sugar content|SUGARCN	1
+23581288	839724	['LEC2']	2	TO:0000696	starch content|STARCHCN	1
+23581288	822293	['FUS3', 'FUSCA3']	3	TO:0000153	relative yield|RELYLD|RY	1
+23581288	822293	['FUS3', 'FUSCA3']	3	TO:0002661	seed maturation|asynchronous seed maturation|nonsynchronous seed maturation|SDMT|synchronous seed maturation	1
+23581288	822293	['FUS3', 'FUSCA3']	3	TO:0000333	sugar content|SUGARCN	1
+23581288	822293	['FUS3', 'FUSCA3']	3	TO:0000696	starch content|STARCHCN	1
+23581288	822061	['ABI3', 'ABA-INSENSITIVE3']	2	TO:0000153	relative yield|RELYLD|RY	1
+23581288	822061	['ABI3', 'ABA-INSENSITIVE3']	2	TO:0002661	seed maturation|asynchronous seed maturation|nonsynchronous seed maturation|SDMT|synchronous seed maturation	1
+23581288	822061	['ABI3', 'ABA-INSENSITIVE3']	2	TO:0000333	sugar content|SUGARCN	1
+23581288	822061	['ABI3', 'ABA-INSENSITIVE3']	2	TO:0000696	starch content|STARCHCN	1
+22623516	817157	['MAX1']	3	TO:0000257	root branching|rbr|RTBR	1
+22623516	817157	['MAX1']	3	TO:0002639	shoot branching	2
+22623516	829417	['MAX4']	2	TO:0000257	root branching|rbr|RTBR	1
+22623516	829417	['MAX4']	2	TO:0002639	shoot branching	2
+22623516	838334	['D27', 'AtD27', 'Atd27']	7	TO:0000257	root branching|rbr|RTBR	1
+22623516	838334	['D27', 'AtD27', 'Atd27']	7	TO:0002639	shoot branching	2
+26760207	4254	['SCF']	1	TO:0000444	parasitic weed	1
+26760207	4254	['SCF']	1	TO:0000346	tiller number|TINB	1
+26760207	7164	['D53']	1	TO:0000444	parasitic weed	1
+26760207	7164	['D53']	1	TO:0000346	tiller number|TINB	1
+15659436	818862	['MAX2', 'ORE9']	2	TO:0000346	tiller number|TINB	1
+15659436	818862	['MAX2', 'ORE9']	2	TO:0000661	tiller bud dormancy	1
+15659436	818862	['MAX2', 'ORE9']	2	TO:0002639	shoot branching	1
+10753522	542391	['Kn1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+10753522	542255	['Rs1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+10753522	542487	['Lg3']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+10753522	541960	['Lg4']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+10080693	107817797	['Knotted1']	2	TO:0002638	shoot meristem development|shoot meristem abortion	1
+10080693	107817797	['Knotted1']	2	TO:0006020	shoot apical meristem development	1
+14729915	843249	['CRABS CLAW', 'CRC']	3	TO:0002611	homeotic development trait|homeotic mutation	1
+14729915	843249	['CRABS CLAW', 'CRC']	3	TO:0006017	meristem identity|meristem determinacy	1
+14729915	843249	['CRABS CLAW', 'CRC']	3	TO:0000822	leaf midvein morphology trait|leaf midrib	2
+14729915	843249	['CRABS CLAW', 'CRC']	3	TO:0000823	leaf midvein thickness|leaf midrib	2
+18034312	100193424	['ZmNAAT1']	1	TO:0000434	root activity|RTACT	1
+16926158	778378	['HvDMAS1']	1	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+16926158	778439	['ZmDMAS1']	1	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+16926158	100037594	['TaDMAS1']	1	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+17609219	851891	['SUR2', 'sur2']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+15078816	831441	['CONSTANS']	1	TO:0000137	days to heading|DTHD|heading date	1
+15078816	842859	['FLOWERING LOCUS T']	1	TO:0000137	days to heading|DTHD|heading date	1
+19762423	819174	['SUPPRESOR OF OVEREXPRESSION OF CONSTANS 1', 'SOC1']	2	TO:0000072	awn length|An|awning|AWNLG	1
+19762423	843244	['APETALA1']	1	TO:0000072	awn length|An|awning|AWNLG	1
+23437005	829969	['Hd1']	2	TO:0000137	days to heading|DTHD|heading date	1
+24420930	842940	['Arabidopsis Trithorax protein1', 'ATX1']	3	TO:0006018	organ identity	1
+24420930	842940	['Arabidopsis Trithorax protein1', 'ATX1']	3	TO:0006019	floral organ identity	1
+24420930	842940	['Arabidopsis Trithorax protein1', 'ATX1']	3	TO:0000207	plant height|Ht|PTHT|shoot height	1
+24420930	842940	['Arabidopsis Trithorax protein1', 'ATX1']	3	TO:0002759	grain number|GRNB|kernel number	1
+23147221	689	['Osj10gBTF3', 'BTF3']	10	TO:0000421	pollen fertility|POFRT	1
+25327517	54821	['Plk1-Interacting Checkpoint Helicase', 'PICH']	5	TO:0000231	endospermless|ENDMIN	1
+25327517	54821	['Plk1-Interacting Checkpoint Helicase', 'PICH']	5	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+24043854	816305	['WUSCHEL', 'WUS']	2	TO:0000434	root activity|RTACT	1
+24043854	820297	['WOX5']	1	TO:0000434	root activity|RTACT	1
+15509765	843915	['CLAVATA1', 'CLV1']	4	TO:0002600	floral organ size	1
+15509765	843915	['CLAVATA1', 'CLV1']	4	TO:0006038	floral organ number	2
+15509765	821888	['FON1', 'fon1']	7	TO:0002600	floral organ size	1
+15509765	821888	['FON1', 'fon1']	7	TO:0006038	floral organ number	2
+17012407	817267	['CLAVATA3', 'CLV3']	6	TO:0000027	culm number|CmN	1
+17012407	817267	['CLAVATA3', 'CLV3']	6	TO:0000547	primary branch number|NPB|number of primary rachis branches|panicle primary branch number|PBRNB|PRB|primary branches per panicle	1
+17012407	817267	['CLAVATA3', 'CLV3']	6	TO:0000953	stem number|stalk number	1
+17012407	817267	['CLAVATA3', 'CLV3']	6	TO:0006038	floral organ number	1
+19834537	107276890	['FON2', 'fon2']	8	TO:0006017	meristem identity|meristem determinacy	1
+19834537	4329179	['FOS1']	9	TO:0006017	meristem identity|meristem determinacy	1
+17056620	817267	['CLAVATA3', 'CLV3']	3	TO:0000582	inflorescence number|INFLONB	2
+17056620	817267	['CLAVATA3', 'CLV3']	3	TO:0006038	floral organ number	2
+17056620	817267	['CLAVATA3', 'CLV3']	3	TO:0002600	floral organ size	1
+17056620	817267	['CLAVATA3', 'CLV3']	3	TO:0006031	inflorescence size	1
+14503923	542097	['BD1']	2	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+14503923	542097	['BD1']	2	TO:0006017	meristem identity|meristem determinacy	1
+14503923	542097	['BD1']	2	TO:0006018	organ identity	1
+14503923	542097	['BD1']	2	TO:0006030	spikelet meristem identity	1
+14503923	542097	['BD1']	2	TO:0000050	inflorescence branching|panicle branching	1
+12835399	542097	['BD1']	1	TO:0000050	inflorescence branching|panicle branching	1
+12835399	542097	['BD1']	1	TO:0006017	meristem identity|meristem determinacy	1
+12835399	542097	['BD1']	1	TO:0006030	spikelet meristem identity	1
+23775595	843751	['AtCYP78A10']	1	TO:0000113	giant embryo	1
+23775595	843751	['AtCYP78A10']	1	TO:0000397	grain size|GRSZ	1
+23775595	843751	['AtCYP78A10']	1	TO:0002684	plant cell size	1
+15452707	542663	['CAD']	4	TO:0000733	lignin biosynthesis trait|lignin biosynthesis	1
+23713079	4344399	['PRR37']	7	TO:0000229	photoperiod sensitivity trait|PPDSN	1
+23713079	4344399	['PRR37']	7	TO:0000137	days to heading|DTHD|heading date	1
+22399582	817134	['ELF3', 'EARLY FLOWERING 3']	2	TO:0002616	flowering time trait|anthesis timing|time of flowering	1
+22399582	817134	['ELF3', 'EARLY FLOWERING 3']	2	TO:0000137	days to heading|DTHD|heading date	1
+22399582	817134	['ELF3', 'EARLY FLOWERING 3']	2	TO:0000207	plant height|Ht|PTHT|shoot height	1
+22399582	817134	['ELF3', 'EARLY FLOWERING 3']	2	TO:0002759	grain number|GRNB|kernel number	1
+20716699	851842	['GID2']	4	TO:0000166	gibberellic acid sensitivity|GA3 response|GASN|GB response|gibberellic acid response|Gibberellin response	1
+15574840	835849	['GS1']	2	TO:0000305	glutamine synthetase content|glutamate-ammonia ligase|glutamylhydroxamic synthetase|GS1|GS1CN|L-glutamine synthetase	2
+15574840	835849	['GS1']	2	TO:0000434	root activity|RTACT	1
+15574840	833738	['GLN1;1']	1	TO:0000305	glutamine synthetase content|glutamate-ammonia ligase|glutamylhydroxamic synthetase|GS1|GS1CN|L-glutamine synthetase	2
+15574840	833738	['GLN1;1']	1	TO:0000434	root activity|RTACT	1
+15574840	842935;833535	['GLN1;2']	1	TO:0000305	glutamine synthetase content|glutamate-ammonia ligase|glutamylhydroxamic synthetase|GS1|GS1CN|L-glutamine synthetase	2
+15574840	842935;833535	['GLN1;2']	1	TO:0000434	root activity|RTACT	1
+22761858	855009	['GLO1']	8	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	2
+22761858	854205	['GLO4']	8	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	2
+10394940	55733	['Skn']	1	TO:0000072	awn length|An|awning|AWNLG	1
+22380792	832186	['AGG3', 'G protein gamma subunit (AGG3']	11	TO:0002682	plant cell shape	1
+22380792	832186	['AGG3', 'G protein gamma subunit (AGG3']	11	TO:0002684	plant cell size	1
+22380792	817170	['G protein alpha subunit', 'GPA1']	3	TO:0002682	plant cell shape	1
+22380792	817170	['G protein alpha subunit', 'GPA1']	3	TO:0002684	plant cell size	1
+22380792	829597	['AGB1']	2	TO:0002682	plant cell shape	1
+22380792	829597	['AGB1']	2	TO:0002684	plant cell size	1
+22685166	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	4	TO:0000387	plant trait|plant phenotype|plant quality	1
+22685166	830095	['bri1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+22685166	843845	['BRASSINAZOLE-RESISTANT1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+15144377	819174	['SUPPRESOR OF OVEREXPRESSION OF CONSTANS 1', 'SOC1', 'SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20', 'AGL20']	6	TO:0000387	plant trait|plant phenotype|plant quality	2
+18296724	827469	['dynamin']	4	TO:0000387	plant trait|plant phenotype|plant quality	1
+18296724	831441	['CONSTANS']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+18296724	842859	['FLOWERING LOCUS T']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+12407188	842859	['FLOWERING LOCUS T', 'FT']	5	TO:0000137	days to heading|DTHD|heading date	1
+15094187	542406	['Zmhox1a']	1	TO:0000194	globular embryo	1
+16021500	819107	['MAX3', 'max3', 'AtMAX3']	1	TO:0000346	tiller number|TINB	1
+16021500	819107	['MAX3', 'max3', 'AtMAX3']	1	TO:0000792	axillary bud number	1
+21880076	100527992	['IDEF1', 'HvIDEF1']	12	TO:0000072	awn length|An|awning|AWNLG	1
+21880076	100527992	['IDEF1', 'HvIDEF1']	12	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	2
+20009022	833982	['PRE1']	6	TO:0002688	leaf lamina joint bending	1
+20009022	833982	['PRE1']	6	TO:0000872	leaf erect	1
+20009022	818908	['IBH1']	4	TO:0002688	leaf lamina joint bending	1
+20009022	818908	['IBH1']	4	TO:0000872	leaf erect	1
+20009022	843845	['BRASSINAZOLE-RESISTANT1', 'BZR1']	2	TO:0002688	leaf lamina joint bending	1
+20009022	843845	['BRASSINAZOLE-RESISTANT1', 'BZR1']	2	TO:0000872	leaf erect	1
+23124325	814725	['AtIDD15']	1	TO:0000039	yield component	1
+17245561	831039	['NADP-ME2']	8	TO:0000434	root activity|RTACT	1
+17245561	831039	['NADP-ME2']	8	TO:0000106	male sterility type|MS	1
+17245561	831039	['NADP-ME2']	8	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+17245561	831039	['NADP-ME2']	8	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+17245561	831039	['NADP-ME2']	8	TO:0006001	salt tolerance|SALTTL	1
+23420902	542051	['NARROW SHEATH1', 'NS1']	1	TO:0000492	leaf shape|LFSHP	4
+23420902	542051	['NARROW SHEATH1', 'NS1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+23420902	542051	['NARROW SHEATH1', 'NS1']	1	TO:0000241	leaf number|LFNB	1
+23420902	542051	['NARROW SHEATH1', 'NS1']	1	TO:0000370	leaf width|LFWD|lfwid|LW	1
+23420902	542051	['NARROW SHEATH1', 'NS1']	1	TO:0006062	plant width	1
+23420902	542147	['NS2']	1	TO:0000492	leaf shape|LFSHP	4
+23420902	542147	['NS2']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+23420902	542147	['NS2']	1	TO:0000241	leaf number|LFNB	1
+23420902	542147	['NS2']	1	TO:0000370	leaf width|LFWD|lfwid|LW	1
+23420902	542147	['NS2']	1	TO:0006062	plant width	1
+17309686	842733	['NPR1', 'npr1']	5	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	4
+17309686	842733	['NPR1', 'npr1']	5	TO:0000315	bacterial disease resistance	1
+17309686	842733	['NPR1', 'npr1']	5	TO:0000770	bacterial blight disease resistance	1
+20561248	842733	['NPR1', 'npr1']	5	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+20561248	842733	['NPR1', 'npr1']	5	TO:0000479	acid sensitivity|ADSN	1
+21486304	837327	['NRT2']	1	TO:0020099	nitrate transport	2
+21486304	835085	['NRT3.1']	1	TO:0020099	nitrate transport	2
+10677431	837763	['CHL1', 'AtNRT1']	2	TO:0020099	nitrate transport	2
+10677431	837763	['CHL1', 'AtNRT1']	2	TO:0020100	nitrate uptake	1
+10677431	108710756	['CHL1']	1	TO:0020099	nitrate transport	2
+10677431	108710756	['CHL1']	1	TO:0020100	nitrate uptake	1
+16891402	817212	['CYP734A1', 'BAS1']	3	TO:0000072	awn length|An|awning|AWNLG	1
+22642989	836412	['ARR6']	1	TO:0000428	callus induction|CAIND	1
+22642989	827297	['ARR2']	1	TO:0000428	callus induction|CAIND	1
+19225807	828603	['AMY1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+17938955	815160	['OPR3', 'opr3']	3	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+22382682	856208	['ASR1']	6	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+22382682	856208	['ASR1']	6	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+22382682	856208	['ASR1']	6	TO:0000259	heat tolerance|HTol	1
+22382682	856208	['ASR1']	6	TO:0006052	copper concentration	1
+22382682	856208	['ASR1']	6	TO:0002657	oxidative stress	3
+21670506	854324	['PDR5']	1	TO:0000072	awn length|An|awning|AWNLG	1
+22301130	818199	['AtABI5', 'ABI5']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+22301130	818199	['AtABI5', 'ABI5']	1	TO:0000188	drought sensitivity|drought susceptibility|DRS|DRSN	1
+22301130	818199	['AtABI5', 'ABI5']	1	TO:0000276	drought tolerance|drought resistance|DRTL	4
+16786297	821625	['EIN3', 'ein3']	5	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	3
+16786297	821625	['EIN3', 'ein3']	5	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+16786297	821625	['EIN3', 'ein3']	5	TO:0000737	plant aspect	1
+16786297	821625	['EIN3', 'ein3']	5	TO:0000387	plant trait|plant phenotype|plant quality	1
+24279948	832636	['RD22']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+24279948	832636	['RD22']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	2
+24279948	832636	['RD22']	1	TO:0000434	root activity|RTACT	1
+24279948	832636	['RD22']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24279948	832636	['RD22']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+24279948	821463	['ABF4']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+24279948	821463	['ABF4']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	2
+24279948	821463	['ABF4']	1	TO:0000434	root activity|RTACT	1
+24279948	821463	['ABF4']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24279948	821463	['ABF4']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+24279948	830424	['DREB2A']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+24279948	830424	['DREB2A']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	2
+24279948	830424	['DREB2A']	1	TO:0000434	root activity|RTACT	1
+24279948	830424	['DREB2A']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24279948	830424	['DREB2A']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+24279948	825316	['PIP1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+24279948	825316	['PIP1']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	2
+24279948	825316	['PIP1']	1	TO:0000434	root activity|RTACT	1
+24279948	825316	['PIP1']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24279948	825316	['PIP1']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+24279948	818487;824510;829662	['PIP2; 6']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+24279948	818487;824510;829662	['PIP2; 6']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	2
+24279948	818487;824510;829662	['PIP2; 6']	1	TO:0000434	root activity|RTACT	1
+24279948	818487;824510;829662	['PIP2; 6']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24279948	818487;824510;829662	['PIP2; 6']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+22846038	825473	['TIR1', 'TRANSPORT INHIBITOR RESPONSE 1']	3	TO:0000387	plant trait|plant phenotype|plant quality	1
+15599592	817206	['AKT1']	1	TO:0000008	potassium sensitivity|KSN|potassium deficiency	1
+15599592	817206	['AKT1']	1	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	1
+15599592	817206	['AKT1']	1	TO:0000514	potassium uptake|KUP	1
+25096783	817206	['AKT1', 'akt1']	11	TO:0000387	plant trait|plant phenotype|plant quality	2
+25096783	827481	['CBL1']	5	TO:0000387	plant trait|plant phenotype|plant quality	2
+25096783	839907	['CIPK23']	6	TO:0000387	plant trait|plant phenotype|plant quality	2
+11027709	107782067	['Aldh2a', 'ALDH2a']	9	TO:0000286	submergence sensitivity|Sub|submergence tolerance|SUBSN	1
+11027709	107782067	['Aldh2a', 'ALDH2a']	9	TO:0000524	submergence tolerance|SUBTL	1
+11027709	542363	['Adh1']	1	TO:0000286	submergence sensitivity|Sub|submergence tolerance|SUBSN	1
+11027709	542363	['Adh1']	1	TO:0000524	submergence tolerance|SUBTL	1
+11027709	542376	['Pdc1']	1	TO:0000286	submergence sensitivity|Sub|submergence tolerance|SUBSN	1
+11027709	542376	['Pdc1']	1	TO:0000524	submergence tolerance|SUBTL	1
+17666027	839982	['UNUSUAL FLORAL ORGAN', 'UFO', 'ufo']	4	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+17666027	839982	['UNUSUAL FLORAL ORGAN', 'UFO', 'ufo']	4	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+17666027	839982	['UNUSUAL FLORAL ORGAN', 'UFO', 'ufo']	4	TO:0000582	inflorescence number|INFLONB	1
+17666027	839982	['UNUSUAL FLORAL ORGAN', 'UFO', 'ufo']	4	TO:0006018	organ identity	1
+17666027	839982	['UNUSUAL FLORAL ORGAN', 'UFO', 'ufo']	4	TO:0006019	floral organ identity	1
+21910771	836307	['LEAFY', 'LFY']	5	TO:0006017	meristem identity|meristem determinacy	3
+21910771	836307	['LEAFY', 'LFY']	5	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+21910771	836307	['LEAFY', 'LFY']	5	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+21910771	836307	['LEAFY', 'LFY']	5	TO:0000547	primary branch number|NPB|number of primary rachis branches|panicle primary branch number|PBRNB|PRB|primary branches per panicle	2
+21910771	836307	['LEAFY', 'LFY']	5	TO:0000582	inflorescence number|INFLONB	1
+21910771	836307	['LEAFY', 'LFY']	5	TO:0000735	plastochron	1
+21910771	836307	['LEAFY', 'LFY']	5	TO:0006018	organ identity	1
+21910771	836307	['LEAFY', 'LFY']	5	TO:0006019	floral organ identity	1
+21910771	842789	['APO1']	2	TO:0006017	meristem identity|meristem determinacy	3
+21910771	842789	['APO1']	2	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+21910771	842789	['APO1']	2	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+21910771	842789	['APO1']	2	TO:0000547	primary branch number|NPB|number of primary rachis branches|panicle primary branch number|PBRNB|PRB|primary branches per panicle	2
+21910771	842789	['APO1']	2	TO:0000582	inflorescence number|INFLONB	1
+21910771	842789	['APO1']	2	TO:0000735	plastochron	1
+21910771	842789	['APO1']	2	TO:0006018	organ identity	1
+21910771	842789	['APO1']	2	TO:0006019	floral organ identity	1
+20132733	819174	['SUPPRESOR OF OVEREXPRESSION OF CONSTANS 1', 'SOC1', 'SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20', 'AGL20']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	1
+20132733	819174	['SUPPRESOR OF OVEREXPRESSION OF CONSTANS 1', 'SOC1', 'SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20', 'AGL20']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+20132733	836307	['LEAFY', 'LFY']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	1
+20132733	836307	['LEAFY', 'LFY']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+20132733	843244	['APETALA1', 'AP1']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	1
+20132733	843244	['APETALA1', 'AP1']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+20576316	843221	['bZIP']	3	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20576316	843221	['bZIP']	3	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+20576316	843221	['bZIP']	3	TO:0002657	oxidative stress	2
+22913536	837792	['AtPHR1']	1	TO:0000163	auxin sensitivity|AUXSN|IAA response|IAA sensitivity|indole-3-acetic acid response|indole-3-acetic acid sensitivity	1
+19706531	4345606	['Badh2', 'badh2', 'BADH2']	5	TO:0000162	grain quality trait	1
+15604704	107772127	['AP2']	2	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+15604704	107772127	['AP2']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	7
+15604704	107772127	['AP2']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+15604704	107772127	['AP2']	2	TO:0000315	bacterial disease resistance	1
+15604704	107772127	['AP2']	2	TO:0006001	salt tolerance|SALTTL	2
+18441339	837304	['AtApx1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+18441339	837304	['AtApx1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+18441339	837304	['AtApx1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+18441339	837304	['AtApx1']	1	TO:0002657	oxidative stress	1
+18441339	820121	['AtApx2']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+18441339	820121	['AtApx2']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+18441339	820121	['AtApx2']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+18441339	820121	['AtApx2']	1	TO:0002657	oxidative stress	1
+18441339	828613	['AtFSD1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+18441339	828613	['AtFSD1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+18441339	828613	['AtFSD1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+18441339	828613	['AtFSD1']	1	TO:0002657	oxidative stress	1
+24089432	837480	['AtMYB61']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+24089432	837480	['AtMYB61']	1	TO:0000731	lignin content	1
+24089432	837480	['AtMYB61']	1	TO:0000733	lignin biosynthesis trait|lignin biosynthesis	1
+16939657	4327165	['OSBZ8']	10	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+16939657	4327165	['OSBZ8']	10	TO:0006001	salt tolerance|SALTTL	1
+16939657	4350088	['bZIP']	3	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+16939657	4350088	['bZIP']	3	TO:0006001	salt tolerance|SALTTL	1
+17699623	830095	['bri1', 'bri1-5']	1	TO:0000872	leaf erect	1
+12177461	54205	['cytochrome c']	3	TO:0000434	root activity|RTACT	2
+12177461	100282267	['Act1']	3	TO:0000434	root activity|RTACT	2
+12177461	542212	['RbcS']	2	TO:0000434	root activity|RTACT	2
+20347986	824893	['PR2']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+11978873	542314	['Incw1']	1	TO:0000311	invertase activity trait|acid invertase|alkaline invertase|beta-D-fructofuranoside fructohydrolase|beta-fructofuranosidase activity|beta-fructosidase|beta-h-fructosidase|fructosylinvertase|glucosucrase|INVACT|invertin|maxinvert L 1000|saccharase|sucrase	2
+11978873	542314	['Incw1']	1	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	1
+11978873	542314	['Incw1']	1	TO:0000860	flower length	1
+11978873	542314	['Incw1']	1	TO:0002626	fruit length|grain length|GRLG|pod length	1
+11978873	542314	['Incw1']	1	TO:0002687	cell elongation trait|cell length	1
+11978873	542590	['Incw2']	1	TO:0000311	invertase activity trait|acid invertase|alkaline invertase|beta-D-fructofuranoside fructohydrolase|beta-fructofuranosidase activity|beta-fructosidase|beta-h-fructosidase|fructosylinvertase|glucosucrase|INVACT|invertin|maxinvert L 1000|saccharase|sucrase	2
+11978873	542590	['Incw2']	1	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	1
+11978873	542590	['Incw2']	1	TO:0000860	flower length	1
+11978873	542590	['Incw2']	1	TO:0002626	fruit length|grain length|GRLG|pod length	1
+11978873	542590	['Incw2']	1	TO:0002687	cell elongation trait|cell length	1
+22529386	818581	['coi1', 'COI1']	3	TO:0000387	plant trait|plant phenotype|plant quality	2
+22529386	843407	['JAZ9']	1	TO:0000387	plant trait|plant phenotype|plant quality	2
+22529386	814686	['RGA', 'RGA1']	1	TO:0000387	plant trait|plant phenotype|plant quality	2
+22529386	837479	['PIF3']	2	TO:0000387	plant trait|plant phenotype|plant quality	2
+19270400	100286848	['TaCPS1']	2	TO:0000992	gibberellin biosynthesis trait|gibberellin biosynthesis	1
+19270400	100415837	['TaCPS2']	2	TO:0000992	gibberellin biosynthesis trait|gibberellin biosynthesis	1
+19270400	100286847	['TaCPS3']	2	TO:0000992	gibberellin biosynthesis trait|gibberellin biosynthesis	1
+16805731	817857	['COP1']	2	TO:0020097	stomatal opening	1
+16805731	826470	['cry1']	1	TO:0020097	stomatal opening	1
+17259288	821148	['KOJAK', 'AtCSLD3']	4	TO:0000084	root number|RTNB|tnr	1
+17259288	821148	['KOJAK', 'AtCSLD3']	4	TO:0001051	root hair density	1
+24006427	831748	['CTR1', 'ctr1']	4	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+24006427	831748	['CTR1', 'ctr1']	4	TO:0000346	tiller number|TINB	1
+21494323	821930	['AtCYN']	9	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+19214808	856454	['Cyp2']	1	TO:0002657	oxidative stress	1
+19214808	856454	['Cyp2']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+19214808	856454	['Cyp2']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+22915302	836808	['DDM1', 'Decrease in DNA Methylation 1', 'ddm1']	7	TO:0000737	plant aspect	1
+23220823	836801	['DGL1']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+23220823	836801	['DGL1']	1	TO:0002687	cell elongation trait|cell length	1
+23220823	1650	['OST48']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+23220823	1650	['OST48']	1	TO:0002687	cell elongation trait|cell length	1
+23220823	856716	['WBP1']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+23220823	856716	['WBP1']	1	TO:0002687	cell elongation trait|cell length	1
+17562186	856926	['DMC1']	1	TO:0000053	pollen sterility	1
+17562186	856926	['DMC1']	1	TO:0000436	spikelet sterility|SPKST	1
+12609047	828652	['DREB1A']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+12609047	828652	['DREB1A']	4	TO:0000276	drought tolerance|drought resistance|DRTL	1
+23077584	828653	['CBF)1', 'DREB)1B', 'CBF1']	3	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+23077584	828653	['CBF)1', 'DREB)1B', 'CBF1']	3	TO:0000303	cold tolerance|COLDTL|CTol	1
+23077584	828651	['CBF2', 'DREB1C']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+23077584	828651	['CBF2', 'DREB1C']	2	TO:0000303	cold tolerance|COLDTL|CTol	1
+23077584	828652	['DREB1A', 'CBF3']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+23077584	828652	['DREB1A', 'CBF3']	2	TO:0000303	cold tolerance|COLDTL|CTol	1
+23077584	835274	['CBF4']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+23077584	835274	['CBF4']	1	TO:0000303	cold tolerance|COLDTL|CTol	1
+18470484	835306	['rd29B']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+18470484	835306	['rd29B']	1	TO:0006001	salt tolerance|SALTTL	1
+18470484	840987	['RAB18']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+18470484	840987	['RAB18']	1	TO:0006001	salt tolerance|SALTTL	1
+20049613	830424	['DREB2A']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+20049613	830424	['DREB2A']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+22380881	831390	['DRM1', 'drm1']	2	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+22380881	831390	['DRM1', 'drm1']	2	TO:0000346	tiller number|TINB	1
+22380881	831390	['DRM1', 'drm1']	2	TO:0000436	spikelet sterility|SPKST	1
+22380881	831390	['DRM1', 'drm1']	2	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+22380881	831315	['drm2']	1	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+22380881	831315	['drm2']	1	TO:0000346	tiller number|TINB	1
+22380881	831315	['drm2']	1	TO:0000436	spikelet sterility|SPKST	1
+22380881	831315	['drm2']	1	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+20878348	832215	['AIP2']	2	TO:0000387	plant trait|plant phenotype|plant quality	2
+20878348	832215	['AIP2']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20878348	832215	['AIP2']	2	TO:0000276	drought tolerance|drought resistance|DRTL	1
+20878348	832215	['AIP2']	2	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+20878348	822061	['ABI3', 'ABA-INSENSITIVE3']	1	TO:0000387	plant trait|plant phenotype|plant quality	2
+20878348	822061	['ABI3', 'ABA-INSENSITIVE3']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20878348	822061	['ABI3', 'ABA-INSENSITIVE3']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+20878348	822061	['ABI3', 'ABA-INSENSITIVE3']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+20570652	856126	['tif6']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+15020633	821891	['ETR2']	3	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+15020633	836344	['ERL1']	4	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+15020633	819614	['EIN4']	2	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+20807375	837393	['AtEDR1', 'EDR1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+11114160	837393	['AtEDR1', 'EDR1', 'edr1']	10	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+11114160	837393	['AtEDR1', 'EDR1', 'edr1']	10	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	2
+11114160	824408	['pad4']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+11114160	824408	['pad4']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	2
+11114160	823964	['eds1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+11114160	823964	['eds1']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	2
+11114160	831889	['EIN2', 'AtEIN2', 'ein2']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+11114160	831889	['EIN2', 'AtEIN2', 'ein2']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	2
+11114160	831748	['CTR1', 'ctr1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+11114160	831748	['CTR1', 'ctr1']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	2
+19689783	817134	['ELF3', 'EARLY FLOWERING 3']	4	TO:0000137	days to heading|DTHD|heading date	1
+19689783	817134	['ELF3', 'EARLY FLOWERING 3']	4	TO:0000279	root weight|RTWT|total root weight|TRW	1
+22807623	829845	['AP2']	11	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+18313797	834469	['PDF1.2']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	4
+18313797	834469	['PDF1.2']	1	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+9049269	107783156	['omega-3 fatty acid desaturase']	3	TO:0000434	root activity|RTACT	1
+9049269	107783156	['omega-3 fatty acid desaturase']	3	TO:0000504	leaf temperature|LFTMP	1
+16820865	830878	['FLC']	1	TO:0000388	forage yield|FRGYLD|FY|straw yield	4
+16240176	830878	['FLC']	2	TO:0000137	days to heading|DTHD|heading date	1
+16240176	819174	['SUPPRESOR OF OVEREXPRESSION OF CONSTANS 1', 'SOC1', 'SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20', 'AGL20']	1	TO:0000137	days to heading|DTHD|heading date	1
+24482436	834676	['FLS2']	3	TO:0000175	rice bacterial blight disease resistance|BB|BBRS|leaf blight	1
+24482436	834676	['FLS2']	3	TO:0000204	rice seedling blight disease resistance|kresek|leaf blight|SDLBTRS	1
+24482436	829480	['AtSERK3']	1	TO:0000175	rice bacterial blight disease resistance|BB|BBRS|leaf blight	1
+24482436	829480	['AtSERK3']	1	TO:0000204	rice seedling blight disease resistance|kresek|leaf blight|SDLBTRS	1
+20421194	852288	['coq1']	2	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+20421194	844187	['SPS1']	1	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+11779628	326597	['CaM']	3	TO:0000072	awn length|An|awning|AWNLG	1
+21571948	836259	['APRR1', 'TOC1', 'toc1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+21571948	836259	['APRR1', 'TOC1', 'toc1']	1	TO:0001015	photosynthetic rate|gross photosynthetic rate|leaf photosynthetic rate	2
+21571948	836259	['APRR1', 'TOC1', 'toc1']	1	TO:0001027	net photosynthetic rate	1
+23741473	837602	['CER1']	1	TO:0000188	drought sensitivity|drought susceptibility|DRS|DRSN	1
+23741473	837602	['CER1']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+19322663	837602	['CER1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+19322663	837602	['CER1']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+9477574	542599	['glucose 6-phosphate/phosphate translocator', 'GPT']	7	TO:0000697	starch yield|STARCHYLD	1
+9477574	100273570	['triose phosphate/phosphate translocator', 'TPT']	3	TO:0000697	starch yield|STARCHYLD	1
+9477574	542344	['phosphoenolpyruvate/phosphate translocator', 'PPT']	3	TO:0000697	starch yield|STARCHYLD	1
+10712532	816815	['GRF1']	4	TO:0000166	gibberellic acid sensitivity|GA3 response|GASN|GB response|gibberellic acid response|Gibberellin response	1
+10712532	816815	['GRF1']	4	TO:0006036	stem elongation	1
+10712532	854465	['SWI2', 'SNF2']	2	TO:0000166	gibberellic acid sensitivity|GA3 response|GASN|GB response|gibberellic acid response|Gibberellin response	1
+10712532	854465	['SWI2', 'SNF2']	2	TO:0006036	stem elongation	1
+17690841	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+17690841	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+17690841	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	2	TO:0000259	heat tolerance|HTol	1
+17690841	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	2	TO:0000276	drought tolerance|drought resistance|DRTL	1
+17690841	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	2	TO:0000303	cold tolerance|COLDTL|CTol	1
+17690841	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	2	TO:0006001	salt tolerance|SALTTL	1
+17690841	825314	['AtSK21']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+17690841	825314	['AtSK21']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+17690841	825314	['AtSK21']	2	TO:0000259	heat tolerance|HTol	1
+17690841	825314	['AtSK21']	2	TO:0000276	drought tolerance|drought resistance|DRTL	1
+17690841	825314	['AtSK21']	2	TO:0000303	cold tolerance|COLDTL|CTol	1
+17690841	825314	['AtSK21']	2	TO:0006001	salt tolerance|SALTTL	1
+9701574	107761743	['GA1']	5	TO:0006036	stem elongation	1
+9701574	107761743	['GA1']	5	TO:0002675	gibberellic acid content|GA content|GACN|gibberellin content	1
+8104574	542391	['Kn1', 'Knotted-1']	3	TO:0000492	leaf shape|LFSHP	1
+8104574	542391	['Kn1', 'Knotted-1']	3	TO:0000859	flower shape	1
+23230849	838800	['LEC1', 'AtLEC1']	1	TO:0002638	shoot meristem development|shoot meristem abortion	1
+23230849	838800	['LEC1', 'AtLEC1']	1	TO:0006014	phyllotaxy|leaf arrangement	1
+23230849	838800	['LEC1', 'AtLEC1']	1	TO:0006017	meristem identity|meristem determinacy	2
+23230849	838800	['LEC1', 'AtLEC1']	1	TO:0006020	shoot apical meristem development	1
+23230849	838800	['LEC1', 'AtLEC1']	1	TO:0006030	spikelet meristem identity	1
+23230849	818472	['HAP3']	1	TO:0002638	shoot meristem development|shoot meristem abortion	1
+23230849	818472	['HAP3']	1	TO:0006014	phyllotaxy|leaf arrangement	1
+23230849	818472	['HAP3']	1	TO:0006017	meristem identity|meristem determinacy	2
+23230849	818472	['HAP3']	1	TO:0006020	shoot apical meristem development	1
+23230849	818472	['HAP3']	1	TO:0006030	spikelet meristem identity	1
+12581311	541883	['RPD3']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+12581311	3065	['HDAC1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+19895406	832773	['AtNHX1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+19895406	832773	['AtNHX1']	1	TO:0006001	salt tolerance|SALTTL	1
+19895406	814729	['AtSOS1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+19895406	814729	['AtSOS1']	1	TO:0006001	salt tolerance|SALTTL	1
+19895406	826623	['AtHKT1;1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+19895406	826623	['AtHKT1;1']	1	TO:0006001	salt tolerance|SALTTL	1
+9076993	843276	['Zip']	1	TO:0000492	leaf shape|LFSHP	1
+9076993	843276	['Zip']	1	TO:0002637	leaf size	1
+20028842	100415880	['HsfA4a']	12	TO:0000259	heat tolerance|HTol	1
+20028842	100415880	['HsfA4a']	12	TO:0000072	awn length|An|awning|AWNLG	1
+20559833	822287	['ICE1']	2	TO:0000303	cold tolerance|COLDTL|CTol	1
+20559833	822287	['ICE1']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+20559833	822287	['ICE1']	2	TO:0006001	salt tolerance|SALTTL	1
+14527713	41737	['trithorax', 'TRX']	2	TO:0000737	plant aspect	1
+14527713	40133	['absent small or homeotic 1', 'ASH1']	2	TO:0000737	plant aspect	1
+14527713	41483	['SU(VAR)3-9']	1	TO:0000737	plant aspect	1
+23596448	818285	['IRX9', 'irx9']	5	TO:0000051	stem strength|Cs|culm strength|CULMSTR|STEMSTR	3
+23596448	839652	['IRX9L']	2	TO:0000051	stem strength|Cs|culm strength|CULMSTR|STEMSTR	3
+23596448	829842	['IRX14', 'irx14']	4	TO:0000051	stem strength|Cs|culm strength|CULMSTR|STEMSTR	3
+23596448	835643	['xylosyltransferase', 'XylT']	3	TO:0000051	stem strength|Cs|culm strength|CULMSTR|STEMSTR	3
+19211695	838551	['AtJMT']	8	TO:0000447	filled grain number|FGRNB|FILGRNB|filled fruit number|filled grain number per panicle|grain number per panicle|GRNBPPN|number of grains per panicle	1
+19211695	838551	['AtJMT']	8	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	3
+19211695	838551	['AtJMT']	8	TO:0002759	grain number|GRNB|kernel number	2
+19211695	838551	['AtJMT']	8	TO:0000210	anther number|ANTNB	1
+19211695	838551	['AtJMT']	8	TO:0002659	pistil number	1
+19211695	838551	['AtJMT']	8	TO:0006010	lodicule number	1
+19211695	838551	['AtJMT']	8	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+10364408	828967	['RLK5']	1	TO:0000166	gibberellic acid sensitivity|GA3 response|GASN|GB response|gibberellic acid response|Gibberellin response	1
+10364408	542378	['ZmPK1']	1	TO:0000166	gibberellic acid sensitivity|GA3 response|GASN|GB response|gibberellic acid response|Gibberellin response	1
+17586689	834666	['KAT1']	2	TO:0006001	salt tolerance|SALTTL	3
+17586689	834666	['KAT1']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+17404758	107785603	['BY2']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+17404758	107785603	['BY2']	1	TO:0002675	gibberellic acid content|GA content|GACN|gibberellin content	1
+22976392	828254	['FIERY2', 'CPL1']	2	TO:0000063	mimic response|disease mimic response|lesion mimic|MIRP	2
+22976392	828254	['FIERY2', 'CPL1']	2	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+15915636	827786	['LSD1']	2	TO:0000495	chlorophyll content|CHLCN	1
+15915636	827786	['LSD1']	2	TO:0000063	mimic response|disease mimic response|lesion mimic|MIRP	2
+15915636	827786	['LSD1']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+15915636	840148	['LOL1']	1	TO:0000495	chlorophyll content|CHLCN	1
+15915636	840148	['LOL1']	1	TO:0000063	mimic response|disease mimic response|lesion mimic|MIRP	2
+15915636	840148	['LOL1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+18593528	851869	['PMP3']	5	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	1
+18593528	851869	['PMP3']	5	TO:0006001	salt tolerance|SALTTL	1
+18593528	851869	['PMP3']	5	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+15656983	851869	['PMP3']	1	TO:0000280	seedling vigor|Sd|SDLVIG	1
+16217607	831436;821151;839040	['SEPALLATA1/2/3']	1	TO:0006018	organ identity	2
+16217607	831436;821151;839040	['SEPALLATA1/2/3']	1	TO:0006019	floral organ identity	1
+16217607	831436;821151;839040	['SEPALLATA1/2/3']	1	TO:0002611	homeotic development trait|homeotic mutation	1
+16217607	831436;821151;839040	['SEPALLATA1/2/3']	1	TO:0006017	meristem identity|meristem determinacy	1
+16217607	831436;821151;839040	['SEPALLATA1/2/3']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+17877710	838780	['FBP7']	3	TO:0006017	meristem identity|meristem determinacy	1
+17877710	825047	['SHATTERPROOF1', 'SHP1', 'shp1']	3	TO:0006017	meristem identity|meristem determinacy	1
+17877710	818883	['SHP2', 'shp2']	2	TO:0006017	meristem identity|meristem determinacy	1
+17877710	826586	['SEEDSTICK', 'STK', 'stk']	5	TO:0006017	meristem identity|meristem determinacy	1
+15299121	843244	['APETALA1', 'AP1', 'ap1']	9	TO:0006018	organ identity	1
+15299121	843244	['APETALA1', 'AP1', 'ap1']	9	TO:0006019	floral organ identity	1
+22325870	816787	['SVP', 'SHORT VEGETATIVE PHASE', 'svp']	7	TO:0000737	plant aspect	1
+22325870	816787	['SVP', 'SHORT VEGETATIVE PHASE', 'svp']	7	TO:0000387	plant trait|plant phenotype|plant quality	1
+22325870	842859	['FLOWERING LOCUS T', 'FT']	1	TO:0000737	plant aspect	1
+22325870	842859	['FLOWERING LOCUS T', 'FT']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+22325870	819174	['SUPPRESOR OF OVEREXPRESSION OF CONSTANS 1', 'SOC1', 'SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20', 'AGL20', 'SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1']	2	TO:0000737	plant aspect	1
+22325870	819174	['SUPPRESOR OF OVEREXPRESSION OF CONSTANS 1', 'SOC1', 'SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20', 'AGL20', 'SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+22325870	828556	['AGL24']	1	TO:0000737	plant aspect	1
+22325870	828556	['AGL24']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+22325870	843244	['APETALA1', 'AP1', 'ap1']	1	TO:0000737	plant aspect	1
+22325870	843244	['APETALA1', 'AP1', 'ap1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+22325870	830878	['FLC']	1	TO:0000737	plant aspect	1
+22325870	830878	['FLC']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+16326928	827631	['AGAMOUS']	1	TO:0006017	meristem identity|meristem determinacy	3
+16326928	827631	['AGAMOUS']	1	TO:0006018	organ identity	1
+16326928	827631	['AGAMOUS']	1	TO:0006019	floral organ identity	1
+12177502	542356	['ZmMEK1']	1	TO:0000072	awn length|An|awning|AWNLG	1
+17541629	842733	['NPR1', 'npr1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+23793712	855264	['MRE11', 'Mre11']	4	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+23070916	25362	['ZnT-2', 'Zn Transporter 2']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+23070916	819293	['MTP1', 'mtp1', 'AtMTP1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+22086333	835710	['MYB80', 'AtMYB80', 'atmyb80']	11	TO:0000004	reversible male sterility|RMS	1
+22086333	835710	['MYB80', 'AtMYB80', 'atmyb80']	11	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+22086333	842694	['AtMYB103']	1	TO:0000004	reversible male sterility|RMS	1
+22086333	842694	['AtMYB103']	1	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+22086333	606324	['MYB80']	1	TO:0000004	reversible male sterility|RMS	1
+22086333	606324	['MYB80']	1	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+21030505	102577613	['StMYB1R-1']	8	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+21030505	102577613	['StMYB1R-1']	8	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+21030505	102577613	['StMYB1R-1']	8	TO:0000276	drought tolerance|drought resistance|DRTL	3
+21030505	102577613	['StMYB1R-1']	8	TO:0000387	plant trait|plant phenotype|plant quality	1
+24951508	837391	['ps1', 'PS1']	3	TO:0002667	abscisic acid content|ABA content|ABACN	1
+24951508	839265;830779	['ATAF1/2']	1	TO:0002667	abscisic acid content|ABA content|ABACN	1
+10395929	852066	['NHX1']	2	TO:0006001	salt tolerance|SALTTL	1
+20963607	852066	['NHX1', 'nhx1']	1	TO:0000434	root activity|RTACT	2
+20963607	852066	['NHX1', 'nhx1']	1	TO:0006001	salt tolerance|SALTTL	1
+14988485	852066	['NHX1', 'nhx1']	2	TO:0006001	salt tolerance|SALTTL	2
+24654769	826630	['AtNIP5;1']	1	TO:0000018	boron sensitivity|boron deficiency|BOSN	1
+24654769	844415	['AtNIP6;1']	1	TO:0000018	boron sensitivity|boron deficiency|BOSN	1
+10814825	100283243	['caffeic acid 3-O-methyltransferase']	1	TO:0000072	awn length|An|awning|AWNLG	1
+24157209	814729	['AtSOS1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+24157209	814729	['AtSOS1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+24157209	814729	['AtSOS1']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24157209	814729	['AtSOS1']	1	TO:0000515	relative growth rate|RELGRATE	1
+24157209	814729	['AtSOS1']	1	TO:0000516	relative root length|RELRTLG	1
+24157209	818566	['AtP5CS1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+24157209	818566	['AtP5CS1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+24157209	818566	['AtP5CS1']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24157209	818566	['AtP5CS1']	1	TO:0000515	relative growth rate|RELGRATE	1
+24157209	818566	['AtP5CS1']	1	TO:0000516	relative root length|RELRTLG	1
+20739304	544006	['SlPti1']	1	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+20739304	544006	['SlPti1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+20739304	822119	['AtOxi1']	1	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+20739304	822119	['AtOxi1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+21051443	830330	['Pdk1', 'AtPdk1']	4	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	3
+9679197	831441	['CONSTANS']	1	TO:0000598	protein content|PROTCN|total protein content	1
+9679197	831441	['CONSTANS']	1	TO:0001044	cobalt content trait|Co content	1
+9679197	831441	['CONSTANS']	1	TO:0002673	amino acid content	1
+9679197	831441	['CONSTANS']	1	TO:0000137	days to heading|DTHD|heading date	1
+24467897	843258	['AtRPK1', 'RPK1']	12	TO:0006001	salt tolerance|SALTTL	2
+24467897	843258	['AtRPK1', 'RPK1']	12	TO:0000387	plant trait|plant phenotype|plant quality	1
+24467897	818566	['AtP5CS1', 'P5CS1']	1	TO:0006001	salt tolerance|SALTTL	2
+24467897	818566	['AtP5CS1', 'P5CS1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+18463946	841822	['AtPAE1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+18463946	841822	['AtPAE1']	1	TO:0000439	fungal disease resistance	1
+22514699	825706	['AtPFA-DSP4']	3	TO:0000012	hydrogen sensitivity|hydrogen ion sensitivity|molecular hydrogen sensitivity	1
+20081045	821924	['PHO1', 'AtPHO1']	9	TO:0000480	nutrient sensitivity|nutrient deficiency	1
+20404569	837792	['AtPHR1']	3	TO:0000511	phosphorus uptake|PHOUP	1
+16085936	843693	['PIN-FORMED1', 'PIN1', 'AtPIN1']	3	TO:0000257	root branching|rbr|RTBR	1
+16085936	843693	['PIN-FORMED1', 'PIN1', 'AtPIN1']	3	TO:0002639	shoot branching	1
+16085936	843693	['PIN-FORMED1', 'PIN1', 'AtPIN1']	3	TO:0000387	plant trait|plant phenotype|plant quality	2
+16085936	843693	['PIN-FORMED1', 'PIN1', 'AtPIN1']	3	TO:0000346	tiller number|TINB	1
+24142111	850683	['Fps1']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24142111	856331	['ACR3']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24142111	851713	['Ycf1']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+23231646	107774983	['NtTKPR1']	1	TO:0000421	pollen fertility|POFRT	2
+24280008	840915	['Rap2.6']	1	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+24280008	840915	['Rap2.6']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+18247056	815949	['PR1']	4	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+18162592	100284678	['phytoene synthase', 'Phytoene synthase', 'PSY']	4	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	4
+18162592	100284678	['phytoene synthase', 'Phytoene synthase', 'PSY']	4	TO:0001041	root yield	1
+18162592	542686	['PSY2']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	4
+18162592	542686	['PSY2']	1	TO:0001041	root yield	1
+18162592	100136882	['PSY1']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	4
+18162592	100136882	['PSY1']	1	TO:0001041	root yield	1
+17890377	544006	['SlPti1', 'Pti1']	5	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+17890377	544006	['SlPti1', 'Pti1']	5	TO:0000315	bacterial disease resistance	1
+21223385	4155	['MBP']	1	TO:0000198	rootless|RTMIN	1
+15247372	832555	['AtFPF1']	1	TO:0000084	root number|RTNB|tnr	1
+15247372	832555	['AtFPF1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+15247372	832555	['AtFPF1']	1	TO:0001006	adventitious root number	1
+21105928	817579	['AtVSR2']	1	TO:0000104	floury endosperm	1
+18723578	10399	['RACK1']	4	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+10485927	207	['Rac', 'rac']	3	TO:0000063	mimic response|disease mimic response|lesion mimic|MIRP	1
+18156216	3320	['HSP90']	9	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+24840804	832208	['RAD51', 'AtRAD51']	2	TO:0000208	lemma number	1
+24840804	832208	['RAD51', 'AtRAD51']	2	TO:0000209	palea number|PALNB	1
+24840804	832208	['RAD51', 'AtRAD51']	2	TO:0000225	stamen number|STANB	1
+18257679	835244	['RAR1', 'rar1']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	3
+18257679	835244	['RAR1', 'rar1']	2	TO:0000163	auxin sensitivity|AUXSN|IAA response|IAA sensitivity|indole-3-acetic acid response|indole-3-acetic acid sensitivity	1
+18257679	835244	['RAR1', 'rar1']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+18257679	818986	['SGT1', 'sgt1']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	3
+18257679	818986	['SGT1', 'sgt1']	2	TO:0000163	auxin sensitivity|AUXSN|IAA response|IAA sensitivity|indole-3-acetic acid response|indole-3-acetic acid sensitivity	1
+18257679	818986	['SGT1', 'sgt1']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+17379698	29141378	['rbcL']	2	TO:0000319	rubisco content|RUBISCOCN	3
+17379698	29141378	['rbcL']	2	TO:0000598	protein content|PROTCN|total protein content	1
+12750344	132243	['OSH1']	1	TO:0000241	leaf number|LFNB	1
+22451723	817148	['RTE1', 'rte1-2']	6	TO:0000737	plant aspect	1
+22451723	817148	['RTE1', 'rte1-2']	6	TO:0002650	phototropism response trait|coleoptile curvature|coleoptile phototropism	1
+22451723	817148	['RTE1', 'rte1-2']	6	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+22451723	842951	['ETR1']	2	TO:0000737	plant aspect	1
+22451723	842951	['ETR1']	2	TO:0002650	phototropism response trait|coleoptile curvature|coleoptile phototropism	1
+22451723	842951	['ETR1']	2	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+21499841	824718	['sdir1', 'SDIR1']	2	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+21499841	824718	['sdir1', 'SDIR1']	2	TO:0000276	drought tolerance|drought resistance|DRTL	2
+19754838	829480	['AtSERK3', 'BAK1', 'AtBAK1']	4	TO:0000371	yield trait|YLD	1
+19754838	829480	['AtSERK3', 'BAK1', 'AtBAK1']	4	TO:0000387	plant trait|plant phenotype|plant quality	4
+19754838	829480	['AtSERK3', 'BAK1', 'AtBAK1']	4	TO:0000396	grain yield trait|GRYLD|Yld	1
+19754838	829480	['AtSERK3', 'BAK1', 'AtBAK1']	4	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+19754838	829480	['AtSERK3', 'BAK1', 'AtBAK1']	4	TO:0000171	height trait	1
+19754838	829480	['AtSERK3', 'BAK1', 'AtBAK1']	4	TO:0000207	plant height|Ht|PTHT|shoot height	1
+19754838	829480	['AtSERK3', 'BAK1', 'AtBAK1']	4	TO:0000541	leaf position|leaf height|LFHT	1
+19754838	830095	['bri1', 'bri1-5']	1	TO:0000371	yield trait|YLD	1
+19754838	830095	['bri1', 'bri1-5']	1	TO:0000387	plant trait|plant phenotype|plant quality	4
+19754838	830095	['bri1', 'bri1-5']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+19754838	830095	['bri1', 'bri1-5']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+19754838	830095	['bri1', 'bri1-5']	1	TO:0000171	height trait	1
+19754838	830095	['bri1', 'bri1-5']	1	TO:0000207	plant height|Ht|PTHT|shoot height	1
+19754838	830095	['bri1', 'bri1-5']	1	TO:0000541	leaf position|leaf height|LFHT	1
+21585388	825831	['AtSFR6', 'sfr6', 'atsfr6']	9	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	4
+21585388	825831	['AtSFR6', 'sfr6', 'atsfr6']	9	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+20561251	836163	['SIZ1', 'siz1']	6	TO:0000387	plant trait|plant phenotype|plant quality	1
+19339499	22938	['ski-interacting protein', 'Ski-interacting protein']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+19339499	22938	['ski-interacting protein', 'Ski-interacting protein']	2	TO:0000276	drought tolerance|drought resistance|DRTL	1
+23456248	829610	['COW1', 'AtSFH1', 'Atsfh1']	3	TO:0002710	root shape	1
+17142477	814729	['AtSOS1', 'SOS1', 'sos1-1']	4	TO:0006001	salt tolerance|SALTTL	2
+17142477	814729	['AtSOS1', 'SOS1', 'sos1-1']	4	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	2
+17142477	833502	['SOS2', 'sos2']	3	TO:0006001	salt tolerance|SALTTL	2
+17142477	833502	['SOS2', 'sos2']	3	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	2
+17142477	832494	['SOS3', 'sos3']	3	TO:0006001	salt tolerance|SALTTL	2
+17142477	832494	['SOS3', 'sos3']	3	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	2
+17142477	814729;833502	['SOS']	2	TO:0006001	salt tolerance|SALTTL	2
+17142477	814729;833502	['SOS']	2	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	2
+21637817	856364	['Spo11']	6	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+19508276	854764	['SYG1']	2	TO:0000328	sucrose content|saccharose content|SUCROSECN	1
+19508276	854764	['SYG1']	2	TO:0006002	proline content	1
+19508276	853148	['Pho81']	2	TO:0000328	sucrose content|saccharose content|SUCROSECN	1
+19508276	853148	['Pho81']	2	TO:0006002	proline content	1
+19508276	832137	['AtSPX1']	1	TO:0000328	sucrose content|saccharose content|SUCROSECN	1
+19508276	832137	['AtSPX1']	1	TO:0006002	proline content	1
+19508276	817943	['PHO2']	1	TO:0000328	sucrose content|saccharose content|SUCROSECN	1
+19508276	817943	['PHO2']	1	TO:0006002	proline content	1
+19508276	836163	['SIZ1', 'siz1', 'ATSIZ1']	1	TO:0000328	sucrose content|saccharose content|SUCROSECN	1
+19508276	836163	['SIZ1', 'siz1', 'ATSIZ1']	1	TO:0006002	proline content	1
+17052323	820327	['SPINDLY', 'SPY', 'spindly', 'spy']	7	TO:0000387	plant trait|plant phenotype|plant quality	2
+24337801	840115	['RCD1', 'rcd1']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+24337801	840115	['RCD1', 'rcd1']	4	TO:0002657	oxidative stress	1
+24337801	840115	['RCD1', 'rcd1']	4	TO:0000303	cold tolerance|COLDTL|CTol	1
+16541127	853776	['sulfiredoxin', 'Srx']	5	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+16541127	840004	['Srx', 'AtSrx']	10	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+19522564	818973	['SSI2']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+25311683	6832	['SUV3']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+25311683	856078	['SUV3']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+22582989	841313	['AtYUC10']	1	TO:0020106	Indole-3-acetic acid content|IAA content|Indole-3-acetic acid  content	5
+22582989	841313	['AtYUC10']	1	TO:0000696	starch content|STARCHCN	1
+12581309	542361	['TB1']	3	TO:0002638	shoot meristem development|shoot meristem abortion	1
+12581309	542361	['TB1']	3	TO:0006020	shoot apical meristem development	1
+18248596	830619	['EMS1', 'ems1']	3	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	2
+22367482	853697	['elf1']	1	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	1
+18071708	820506	['AtSPO11-1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+18071708	820506	['AtSPO11-1']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+18071708	820506	['AtSPO11-1']	1	TO:0000181	seed weight|SDWT	1
+18071708	820506	['AtSPO11-1']	1	TO:0000442	plant fresh weight|PLFWT	1
+18071708	820506	['AtSPO11-1']	1	TO:0000479	acid sensitivity|ADSN	1
+18071708	820506	['AtSPO11-1']	1	TO:0000505	leaf weight|LFWT	1
+18071708	820506	['AtSPO11-1']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	1
+22912901	28719877	['U12']	19	TO:0000387	plant trait|plant phenotype|plant quality	1
+22912901	820203	['U11/U12-31K']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+20220098	9269794	['Sdr4']	7	TO:0000253	seed dormancy|SDDOR	3
+20220098	9269794	['Sdr4']	7	TO:0000162	grain quality trait	1
+20220098	9269794	['Sdr4']	7	TO:0000371	yield trait|YLD	1
+20220098	9269794	['Sdr4']	7	TO:0000396	grain yield trait|GRYLD|Yld	1
+20220098	9269794	['Sdr4']	7	TO:0001068	processing quality trait	1
+20220098	9269794	['Sdr4']	7	TO:0002661	seed maturation|asynchronous seed maturation|nonsynchronous seed maturation|SDMT|synchronous seed maturation	1
+23275199	856105	['VPS22', 'vps22']	5	TO:0000266	chalky endosperm|CHALK|chalkiness of endosperm|Clk	1
+19039666	818348	['receptor-like kinases', 'RLK']	3	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+19039666	838723	['WAK2']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+22130861	844399	['WIN1']	2	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+22130861	844399	['WIN1']	2	TO:0000276	drought tolerance|drought resistance|DRTL	2
+22130861	844399	['WIN1']	2	TO:0002657	oxidative stress	1
+22130861	838105	['SHN1']	2	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+22130861	838105	['SHN1']	2	TO:0000276	drought tolerance|drought resistance|DRTL	2
+22130861	838105	['SHN1']	2	TO:0002657	oxidative stress	1
+17601827	821270	['WRKY45']	11	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+17601827	821270	['WRKY45']	11	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+17601827	842733	['NPR1', 'npr1', 'AtNPR1']	1	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+17601827	842733	['NPR1', 'npr1', 'AtNPR1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+20409007	831365	['WRKY72', 'AtWRKY72']	7	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+20409007	831365	['WRKY72', 'AtWRKY72']	7	TO:0006067	aphid resistance	1
+20826955	818390	['AUX1', 'aux1']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20826955	818390	['AUX1', 'aux1']	2	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+20826955	818390	['AUX1', 'aux1']	2	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20826955	839286	['axr1', 'AXR1']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20826955	839286	['axr1', 'AXR1']	2	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+20826955	839286	['axr1', 'AXR1']	2	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20826955	838416	['bud1', 'BUD1']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20826955	838416	['bud1', 'BUD1']	2	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+20826955	838416	['bud1', 'BUD1']	2	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20826955	841665	['ABA2']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20826955	841665	['ABA2']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+20826955	841665	['ABA2']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20826955	818614	['ABI4']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20826955	818614	['ABI4']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+20826955	818614	['ABI4']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20826955	831147	['AtWRKY75']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+20826955	831147	['AtWRKY75']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+20826955	831147	['AtWRKY75']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+15255870	541800	['YS1']	2	TO:0000434	root activity|RTACT	1
+20532512	831215	['AtPAO1']	4	TO:0000434	root activity|RTACT	1
+20532512	829093	['PAO5', 'AtPAO5']	2	TO:0000434	root activity|RTACT	1
+20532512	818904	['AtPAO2']	2	TO:0000434	root activity|RTACT	1
+20532512	825074	['AtPAO3']	3	TO:0000434	root activity|RTACT	1
+20532512	842894	['AtPAO4']	3	TO:0000434	root activity|RTACT	1
+23161858	815111	['PGR5', 'PROTON GRADIENT REGULATION 5', 'pgr5']	11	TO:0020117	non photochemical quenching|NPQ	2
+19696351	4335725	['Pi21', 'pi21']	4	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+19696351	4335725	['Pi21', 'pi21']	4	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+17507669	107277544	['Pi36']	7	TO:0000072	awn length|An|awning|AWNLG	1
+15141293	5268	['Pi5']	7	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+15141293	5268	['Pi5']	7	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+16541125	541683	['TE1']	1	TO:0000346	tiller number|TINB	2
+16541125	541683	['TE1']	1	TO:0000735	plastochron	1
+16541125	541683	['TE1']	1	TO:0000241	leaf number|LFNB	1
+9278162	542759	['PPDK', 'ppdk']	15	TO:0002654	pyruvate orthophosphate dikinase activity trait|PPDK|Pyruvate phosphate dikinase|Pyruvate, phosphate phosphotransferase	3
+18820699	107275427	['PROG1', 'prog1']	5	TO:0002759	grain number|GRNB|kernel number	1
+19885651	100136882	['PSY1']	4	TO:0000559	plant volume|SP|space	2
+15247400	100284678	['phytoene synthase', 'Phytoene synthase', 'PSY']	5	TO:0000496	carotenoid content|CRTCN	3
+15247400	100136882	['PSY1']	3	TO:0000496	carotenoid content|CRTCN	3
+15247400	542686	['PSY2']	2	TO:0000496	carotenoid content|CRTCN	3
+16399804	103632119	['INTENSIFIER1']	1	TO:0000253	seed dormancy|SDDOR	1
+16399804	103632119	['INTENSIFIER1']	1	TO:0000473	grain shattering|caryopsis shattering|GRSH	1
+16399804	103632119	['INTENSIFIER1']	1	TO:0000486	seed color|SDCL	1
+16399804	103632119	['INTENSIFIER1']	1	TO:0000707	pericarp color|bran color|dehulled grain color|DHULGRCL|grain color|PERICARPCL	1
+19417775	822395	['RCK', 'ROCK-N-ROLLERS']	8	TO:0000421	pollen fertility|POFRT	1
+19417775	838040	['SOLO DANCERS']	1	TO:0000421	pollen fertility|POFRT	1
+7493934	854090	['HAL2']	4	TO:0006001	salt tolerance|SALTTL	1
+16889974	299331	['rHsp90']	7	TO:0006001	salt tolerance|SALTTL	1
+24280027	4348644	['RID1', 'EHD2', 'Ehd2']	4	TO:0000040	panicle length|PnL|PNLG	1
+24280027	4348644	['RID1', 'EHD2', 'Ehd2']	4	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+24280027	4348644	['RID1', 'EHD2', 'Ehd2']	4	TO:0000547	primary branch number|NPB|number of primary rachis branches|panicle primary branch number|PBRNB|PRB|primary branches per panicle	2
+24280027	4348644	['RID1', 'EHD2', 'Ehd2']	4	TO:0000953	stem number|stalk number	1
+24280027	4348644	['RID1', 'EHD2', 'Ehd2']	4	TO:0000207	plant height|Ht|PTHT|shoot height	1
+24280027	541693	['INDETERMINATE1', 'ID1', 'Indeterminate1']	3	TO:0000040	panicle length|PnL|PNLG	1
+24280027	541693	['INDETERMINATE1', 'ID1', 'Indeterminate1']	3	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+24280027	541693	['INDETERMINATE1', 'ID1', 'Indeterminate1']	3	TO:0000547	primary branch number|NPB|number of primary rachis branches|panicle primary branch number|PBRNB|PRB|primary branches per panicle	2
+24280027	541693	['INDETERMINATE1', 'ID1', 'Indeterminate1']	3	TO:0000953	stem number|stalk number	1
+24280027	541693	['INDETERMINATE1', 'ID1', 'Indeterminate1']	3	TO:0000207	plant height|Ht|PTHT|shoot height	1
+18980655	22999	['rim1-1']	4	TO:0000091	leafhopper	2
+15794761	542997	['xylanase inhibitor protein I', 'XIP-I']	3	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+21596949	844323	['GLABRA2']	1	TO:0000085	leaf rolling|LFRL|wilting	2
+21596949	844323	['GLABRA2']	1	TO:0006064	rolled leaf	2
+21596949	844323	['GLABRA2']	1	TO:0002684	plant cell size	2
+21596949	844323	['GLABRA2']	1	TO:0000241	leaf number|LFNB	1
+21596949	844323	['GLABRA2']	1	TO:0002637	leaf size	1
+9843485	836262	['RPE', 'D-ribulose-5-phosphate 3-epimerase', 'rpe']	4	TO:0000387	plant trait|plant phenotype|plant quality	1
+9843485	836262	['RPE', 'D-ribulose-5-phosphate 3-epimerase', 'rpe']	4	TO:0002692	root meristem development	1
+9843485	102594969	['RPE']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+9843485	102594969	['RPE']	1	TO:0002692	root meristem development	1
+16045470	842733	['NPR1', 'npr1', 'AtNPR1']	4	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+19033192	9269129	['SaM']	7	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	5
+19033192	9266343	['SaF']	4	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	5
+17259261	831647	['SU(VAR)3-9']	1	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+17259261	831647	['SU(VAR)3-9']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+17216479	843276	['Zip', 'ZIP', 'Ago7']	2	TO:0000872	leaf erect	2
+17216479	843276	['Zip', 'ZIP', 'Ago7']	2	TO:0000085	leaf rolling|LFRL|wilting	1
+17216479	843276	['Zip', 'ZIP', 'Ago7']	2	TO:0006064	rolled leaf	1
+17216479	843276	['Zip', 'ZIP', 'Ago7']	2	TO:0000881	flower type	1
+24464483	817157	['MAX1', 'max1']	3	TO:0002639	shoot branching	1
+14534788	542711	['SPS']	9	TO:0000171	height trait	1
+14534788	542711	['SPS']	9	TO:0000207	plant height|Ht|PTHT|shoot height	3
+14534788	542711	['SPS']	9	TO:0000387	plant trait|plant phenotype|plant quality	1
+14534788	542711	['SPS']	9	TO:0000541	leaf position|leaf height|LFHT	1
+14534788	542711	['SPS']	9	TO:0000331	sucrose phosphate synthase activity trait|SPS|SPSACT|sucrose 6-phosphate synthase|sucrose phosphate synthetase|sucrose phosphate-uridine diphosphate glucosyltransferase|sucrose-phosphate synthase activity|sucrosephosphate-UDP glucosyltransferase|UDP-glucose-fructose-phosphate glucosyltransferase|uridine diphosphoglucose-fructose phosphate glucosyltransferase	4
+14534788	542711	['SPS']	9	TO:0000598	protein content|PROTCN|total protein content	1
+14534788	542711	['SPS']	9	TO:0001034	relative plant height	1
+21926092	541614	['squalene synthase']	3	TO:0000276	drought tolerance|drought resistance|DRTL	3
+21926092	541614	['squalene synthase']	3	TO:0000136	leaf relative water content|leaf relative water content|rec|RELWCN	2
+21926092	541614	['squalene synthase']	3	TO:0000522	stomatal conductance|STOCOND	2
+21926092	541614	['squalene synthase']	3	TO:0000084	root number|RTNB|tnr	1
+21926092	541614	['squalene synthase']	3	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+21926092	541614	['squalene synthase']	3	TO:0001012	lateral root length	1
+21926092	541614	['squalene synthase']	3	TO:0001013	lateral root number	1
+16900200	4350053	['Alcohol dehydrogenase 1', 'Adh1']	2	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+16900200	4350053	['Alcohol dehydrogenase 1', 'Adh1']	2	TO:0000286	submergence sensitivity|Sub|submergence tolerance|SUBSN	1
+16900200	4350053	['Alcohol dehydrogenase 1', 'Adh1']	2	TO:0000524	submergence tolerance|SUBTL	1
+16900200	4350053	['Alcohol dehydrogenase 1', 'Adh1']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+12582522	4328091	['UDP-glucose pyrophosphorylase', 'UGPase']	3	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+12582522	102577726	['UGPase']	6	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+20805329	827839	['HEN1']	1	TO:0002638	shoot meristem development|shoot meristem abortion	1
+20805329	827839	['HEN1']	1	TO:0006020	shoot apical meristem development	1
+24821718	29141414	['rpl2']	1	TO:0000737	plant aspect	1
+24821718	29141414	['rpl2']	1	TO:0000069	variegated leaf|albino leaf striping|leaf stripes	1
+21809091	835889	['WAX2', 'CER3', 'YRE']	4	TO:0000072	awn length|An|awning|AWNLG	1
+21809091	542154	['GL1']	2	TO:0000072	awn length|An|awning|AWNLG	1
+21809091	28720195	['FLP1']	1	TO:0000072	awn length|An|awning|AWNLG	1
+22829206	817208	['heme oxygenase', 'HY1']	3	TO:0002657	oxidative stress	2
+22829206	817208	['heme oxygenase', 'HY1']	3	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+18588956	54469	['AWP1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+18588956	54469	['AWP1']	1	TO:0000188	drought sensitivity|drought susceptibility|DRS|DRSN	1
+18588956	54469	['AWP1']	1	TO:0000276	drought tolerance|drought resistance|DRTL	1
+18588956	54469	['AWP1']	1	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	1
+18588956	54469	['AWP1']	1	TO:0006001	salt tolerance|SALTTL	1
+8049366	3159	['HMGR']	6	TO:0000072	awn length|An|awning|AWNLG	1
+23918959	778421	['TaCPK2-A']	8	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+16169968	100232981	['anthocyanidin reductase', 'ANR']	8	TO:0000387	plant trait|plant phenotype|plant quality	1
+16169968	100232981	['anthocyanidin reductase', 'ANR']	8	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+16169968	100232981	['anthocyanidin reductase', 'ANR']	8	TO:0002633	fruit ripening trait|fruit ripening	1
+14729919	842378	['AGD2', 'agd2']	10	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+14729919	815864	['ALD1']	6	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+20018603	843874	['AtBBD1', 'atbbd1']	7	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20018603	843874	['AtBBD1', 'atbbd1']	7	TO:0000387	plant trait|plant phenotype|plant quality	1
+20018603	818884	['PDF1']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20018603	818884	['PDF1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+20018603	836838	['ABA1']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20018603	836838	['ABA1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+20018603	838868	['AtSAC1']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+20018603	838868	['AtSAC1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+16805736	828889	['Impaired sucrose induction1', 'IMPAIRED SUCROSE INDUCTION1', 'ISI1', 'isi1']	8	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+16805736	828889	['Impaired sucrose induction1', 'IMPAIRED SUCROSE INDUCTION1', 'ISI1', 'isi1']	8	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+16805736	818614	['ABI4']	1	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+16805736	818614	['ABI4']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+17217471	819187	['phosphomannomutase', 'PMM', 'Phosphomannomutase']	15	TO:0000598	protein content|PROTCN|total protein content	1
+17217471	850499	['sec53']	1	TO:0000598	protein content|PROTCN|total protein content	1
+23957671	100049034	['TaSGT1']	2	TO:0000072	awn length|An|awning|AWNLG	1
+23957671	101290629	['TaCIPK14']	1	TO:0000072	awn length|An|awning|AWNLG	1
+24617729	824408	['pad4', 'AtPAD4']	8	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+24617729	824408	['pad4', 'AtPAD4']	8	TO:0000387	plant trait|plant phenotype|plant quality	1
+25404280	834945	['SAD1', 'sad1']	9	TO:0002639	shoot branching	1
+25279942	835198	['EMF2']	1	TO:0006017	meristem identity|meristem determinacy	2
+25311582	835710	['MYB80', 'AtMYB80', 'atmyb80']	13	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	3
+25311582	835710	['MYB80', 'AtMYB80', 'atmyb80']	13	TO:0000004	reversible male sterility|RMS	1
+25311582	106389601	['MYB80']	1	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	3
+25311582	106389601	['MYB80']	1	TO:0000004	reversible male sterility|RMS	1
+25255828	4343840	['CYP78A13']	7	TO:0000397	grain size|GRSZ	1
+25255828	4343840	['CYP78A13']	7	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	1
+25255828	4343840	['CYP78A13']	7	TO:0002626	fruit length|grain length|GRLG|pod length	1
+21213008	817390	['AtGLYI8']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+21213008	817390	['AtGLYI8']	1	TO:0000072	awn length|An|awning|AWNLG	1
+21213008	838107	['AtGLYI4']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+21213008	838107	['AtGLYI4']	1	TO:0000072	awn length|An|awning|AWNLG	1
+21213008	844356	['AtGLYI7']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+21213008	844356	['AtGLYI7']	1	TO:0000072	awn length|An|awning|AWNLG	1
+24604734	3768750	['miR164']	6	TO:0000276	drought tolerance|drought resistance|DRTL	3
+25270163	829969	['Hd1', 'HDA19']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+25270163	836431	['HDA6']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+25523384	842060	['cyclophilin']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+25523384	842060	['cyclophilin']	4	TO:0000168	abiotic stress trait|abiotic stress tolerance	3
+25523384	842060	['cyclophilin']	4	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+25523384	842060	['cyclophilin']	4	TO:0000298	chlorophyll ratio|chl a to chl b ratio|chl-a to chl-b ratio|chlorophyll content ratio|CHLRO	2
+25523384	842060	['cyclophilin']	4	TO:0000495	chlorophyll content|CHLCN	1
+25523384	842060	['cyclophilin']	4	TO:1000036	root system potassium content|root K content	1
+25523384	842060	['cyclophilin']	4	TO:0000602	total fat content|FATCN|lipid content	1
+25103896	830878	['FLC', 'FLOWERING LOCUS C']	2	TO:0000137	days to heading|DTHD|heading date	1
+25103896	830878	['FLC', 'FLOWERING LOCUS C']	2	TO:0000222	head rice yield|head milled rice|head rice ratio|HEADR	1
+25103896	830878	['FLC', 'FLOWERING LOCUS C']	2	TO:0000256	genetic trait	1
+25103896	830878	['FLC', 'FLOWERING LOCUS C']	2	TO:0000371	yield trait|YLD	1
+25103896	830878	['FLC', 'FLOWERING LOCUS C']	2	TO:0000396	grain yield trait|GRYLD|Yld	1
+25103896	842859	['FLOWERING LOCUS T', 'FT']	1	TO:0000137	days to heading|DTHD|heading date	1
+25103896	842859	['FLOWERING LOCUS T', 'FT']	1	TO:0000222	head rice yield|head milled rice|head rice ratio|HEADR	1
+25103896	842859	['FLOWERING LOCUS T', 'FT']	1	TO:0000256	genetic trait	1
+25103896	842859	['FLOWERING LOCUS T', 'FT']	1	TO:0000371	yield trait|YLD	1
+25103896	842859	['FLOWERING LOCUS T', 'FT']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+25146897	818581	['coi1', 'COI1', 'coi1-1', 'CORONATINE INSENSITIVE 1']	1	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+25146897	818581	['coi1', 'COI1', 'coi1-1', 'CORONATINE INSENSITIVE 1']	1	TO:0000501	spikelet weight|SPKWT	1
+25146897	818581	['coi1', 'COI1', 'coi1-1', 'CORONATINE INSENSITIVE 1']	1	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	1
+25146897	821625;833957	['ETHYLENE INSENSITIVE 3 and ORESARA 1']	1	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+25146897	821625;833957	['ETHYLENE INSENSITIVE 3 and ORESARA 1']	1	TO:0000501	spikelet weight|SPKWT	1
+25146897	821625;833957	['ETHYLENE INSENSITIVE 3 and ORESARA 1']	1	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	1
+25184028	827134	['SUV3']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+25184028	827134	['SUV3']	4	TO:0002675	gibberellic acid content|GA content|GACN|gibberellin content	1
+25184028	827134	['SUV3']	4	TO:0020106	Indole-3-acetic acid content|IAA content|Indole-3-acetic acid  content	3
+25184028	827134	['SUV3']	4	TO:1000026	root system arsenic content|root As content	1
+25184028	827134	['SUV3']	4	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+25582452	825332	['HAWAIIAN SKIRT']	1	TO:0000522	stomatal conductance|STOCOND	1
+25582452	825332	['HAWAIIAN SKIRT']	1	TO:0000872	leaf erect	1
+25582452	825332	['HAWAIIAN SKIRT']	1	TO:0000319	rubisco content|RUBISCOCN	1
+25582452	825332	['HAWAIIAN SKIRT']	1	TO:0002637	leaf size	1
+25582452	825332	['HAWAIIAN SKIRT']	1	TO:0006014	phyllotaxy|leaf arrangement	1
+24410953	23474	['ETHE1']	7	TO:0002657	oxidative stress	1
+25352666	829919	['SHR', 'AtSHR']	10	TO:0000084	root number|RTNB|tnr	2
+25763711	829093	['PAO5', 'AtPAO5', 'POLYAMINE OXIDASE 5', 'Atpao5']	8	TO:0000387	plant trait|plant phenotype|plant quality	1
+25754232	3950751	['orfB']	6	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	3
+25754232	3950751	['orfB']	6	TO:0000232	rice cytoplasmic male sterility|CMS|cytoplasmic male sterility	3
+25754232	3950751	['orfB']	6	TO:0000580	cytoplasmic male sterility	1
+25754232	3950751	['orfB']	6	TO:0000110	wild abortive CMS|CMS-WA|WACMS	1
+25711814	854697	['SEC24']	3	TO:0000084	root number|RTNB|tnr	1
+25711814	854697	['SEC24']	3	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+25711814	852740	['sec27Delta/SEC27', 'SEC27']	2	TO:0000084	root number|RTNB|tnr	1
+25711814	852740	['sec27Delta/SEC27', 'SEC27']	2	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+25739330	837805	['AtSLAC1', 'slac1']	2	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+25739330	837805	['AtSLAC1', 'slac1']	2	TO:0002681	leaf curling|curled leaf trait|frizzled leaf trait	1
+25728666	4336878	['COLD1']	7	TO:0000303	cold tolerance|COLDTL|CTol	2
+25807209	109364	['EL5', 'mEL5']	7	TO:0002660	cytokinin content	1
+25804816	828652	['DREB1A', 'CBF3']	2	TO:0000106	male sterility type|MS	1
+25870602	824341	['AtBAG4']	1	TO:0000039	yield component	1
+25870602	824341	['AtBAG4']	1	TO:0000277	biochemical trait	1
+25870602	824341	['AtBAG4']	1	TO:0000371	yield trait|YLD	1
+25870602	820438	['Hsp70']	1	TO:0000039	yield component	1
+25870602	820438	['Hsp70']	1	TO:0000277	biochemical trait	1
+25870602	820438	['Hsp70']	1	TO:0000371	yield trait|YLD	1
+25893869	834671	['beta-ketoacyl-[acyl carrier protein] synthase I', 'KASI']	3	TO:0000639	seed fertility|percent seed fertility|SDFRT	1
+25893776	855080;855369	['fet3fet4']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+25854544	4347973	['PCR1']	8	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	2
+25848690	852372	['Sec18p']	1	TO:0000207	plant height|Ht|PTHT|shoot height	1
+25848690	852372	['Sec18p']	1	TO:0000382	1000-grain weight|1000-grain weight|TGRWT|thousand grain weight|thousand seed weight|TSDWT	2
+25977235	850904	['Hrd3']	1	TO:0000587	endosperm quality|End|endosperm quality	8
+26034131	856831	['RAD51']	3	TO:0000358	female sterility|FEMST	1
+26034131	856831	['RAD51']	3	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+25995326	821625	['EIN3', 'ein3', 'ETHYLENE INSENSITIVE3', 'EIN3-LIKE']	3	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	2
+25995326	821625	['EIN3', 'ein3', 'ETHYLENE INSENSITIVE3', 'EIN3-LIKE']	3	TO:0006001	salt tolerance|SALTTL	3
+25995326	821625	['EIN3', 'ein3', 'ETHYLENE INSENSITIVE3', 'EIN3-LIKE']	3	TO:0000397	grain size|GRSZ	1
+25995326	817247	['EIL1']	2	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	2
+25995326	817247	['EIL1']	2	TO:0006001	salt tolerance|SALTTL	3
+25995326	817247	['EIL1']	2	TO:0000397	grain size|GRSZ	1
+26070439	838219	['AtMYB58', 'MYB58']	3	TO:0000733	lignin biosynthesis trait|lignin biosynthesis	2
+26070439	838219	['AtMYB58', 'MYB58']	3	TO:0000294	leaf sheath auricle color|AC|AUCL	1
+26070439	844259	['AtMYB63', 'MYB63']	3	TO:0000733	lignin biosynthesis trait|lignin biosynthesis	2
+26070439	844259	['AtMYB63', 'MYB63']	3	TO:0000294	leaf sheath auricle color|AC|AUCL	1
+25014258	841665	['ABA2', 'AtABA2', 'aba2']	3	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	3
+25014258	841665	['ABA2', 'AtABA2', 'aba2']	3	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+25014258	841665	['ABA2', 'AtABA2', 'aba2']	3	TO:0000992	gibberellin biosynthesis trait|gibberellin biosynthesis	1
+24834920	825446	['AtXXT1', 'xxt1']	2	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24834920	825446	['AtXXT1', 'xxt1']	2	TO:0002665	root hair length|RTHLG|RTHRLG	1
+24834920	827940	['AtXXT2', 'xxt2']	2	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+24834920	827940	['AtXXT2', 'xxt2']	2	TO:0002665	root hair length|RTHLG|RTHRLG	1
+26140668	818390	['AUX1', 'aux1', 'AtAUX1']	2	TO:0002672	auxin content|AUXCN	1
+26140668	818390	['AUX1', 'aux1', 'AtAUX1']	2	TO:0000163	auxin sensitivity|AUXSN|IAA response|IAA sensitivity|indole-3-acetic acid response|indole-3-acetic acid sensitivity	1
+26140668	818390	['AUX1', 'aux1', 'AtAUX1']	2	TO:0000479	acid sensitivity|ADSN	1
+26140668	818390	['AUX1', 'aux1', 'AtAUX1']	2	TO:0000015	oxygen sensitivity|oxygen deficiency	1
+26116860	101768789	['HD1']	6	TO:0002616	flowering time trait|anthesis timing|time of flowering	1
+26121399	24598	['nNOS']	5	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+26121399	24598	['nNOS']	5	TO:0000276	drought tolerance|drought resistance|DRTL	2
+26121399	24598	['nNOS']	5	TO:0006001	salt tolerance|SALTTL	2
+26147620	9857	['CAP350']	1	TO:0000355	heterosis|HET|heterosis in f1 hybrid|hybrid vigor	1
+26147620	9857	['CAP350']	1	TO:0000162	grain quality trait	1
+26147620	9857	['CAP350']	1	TO:0000975	grain width|caryopsis width|kernel width	1
+26200336	548182	['SUSIBA2']	6	TO:0000696	starch content|STARCHCN	2
+26202549	4327362	['GAMYB']	1	TO:0000053	pollen sterility	2
+26202549	4327362	['GAMYB']	1	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+26202549	4327362	['GAMYB']	1	TO:0000436	spikelet sterility|SPKST	1
+26202549	4327362	['GAMYB']	1	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	4
+26202549	4327362	['GAMYB']	1	TO:0000345	seed viability|SDVIA	1
+26202549	4327362	['GAMYB']	1	TO:0000365	male flowering|male flower anthesis|male flower flowering|MALEFLW|MFLW	1
+26258667	815907	['ANR1']	3	TO:0000084	root number|RTNB|tnr	1
+26258667	815907	['ANR1']	3	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+26258667	815907	['ANR1']	3	TO:0000279	root weight|RTWT|total root weight|TRW	1
+26258667	815907	['ANR1']	3	TO:0000571	shoot fresh weight|SHFWT|total shoot fresh weight	1
+26258667	815907	['ANR1']	3	TO:0000578	root fresh weight|RTFWT|total root fresh weight	1
+26258667	815907	['ANR1']	3	TO:0001012	lateral root length	1
+26258667	815907	['ANR1']	3	TO:0001013	lateral root number	1
+26257333	838334	['D27', 'AtD27', 'Atd27']	2	TO:0002639	shoot branching	1
+26257333	829417	['MAX4', 'CCD8', 'AtCCD8']	8	TO:0002639	shoot branching	1
+26257333	819107	['MAX3', 'max3', 'AtMAX3', 'CCD7', 'AtCCD7']	2	TO:0002639	shoot branching	1
+26297385	4602	['MYB']	1	TO:0000733	lignin biosynthesis trait|lignin biosynthesis	5
+26297385	4602	['MYB']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+26297385	4602	['MYB']	1	TO:0000200	brittle culm	1
+26297385	6622	['NAC']	1	TO:0000733	lignin biosynthesis trait|lignin biosynthesis	5
+26297385	6622	['NAC']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+26297385	6622	['NAC']	1	TO:0000200	brittle culm	1
+26297139	834758	['BI-1']	10	TO:0002657	oxidative stress	1
+26434724	831411	['LONGIFOLIA 1']	1	TO:0000162	grain quality trait	1
+26434724	831411	['LONGIFOLIA 1']	1	TO:0000371	yield trait|YLD	1
+26434724	831411	['LONGIFOLIA 1']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+26434724	831411	['LONGIFOLIA 1']	1	TO:0002730	grain shape|dehulled grain shape|DHULGRSHP|GRSHP	2
+26434724	831411	['LONGIFOLIA 1']	1	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	1
+26434724	831411	['LONGIFOLIA 1']	1	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	1
+26434724	831411	['LONGIFOLIA 1']	1	TO:0000975	grain width|caryopsis width|kernel width	1
+26434724	831411	['LONGIFOLIA 1']	1	TO:0002626	fruit length|grain length|GRLG|pod length	1
+26434724	831411	['LONGIFOLIA 1']	1	TO:0002687	cell elongation trait|cell length	1
+26434724	821279	['LONGIFOLIA 2']	1	TO:0000162	grain quality trait	1
+26434724	821279	['LONGIFOLIA 2']	1	TO:0000371	yield trait|YLD	1
+26434724	821279	['LONGIFOLIA 2']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+26434724	821279	['LONGIFOLIA 2']	1	TO:0002730	grain shape|dehulled grain shape|DHULGRSHP|GRSHP	2
+26434724	821279	['LONGIFOLIA 2']	1	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	1
+26434724	821279	['LONGIFOLIA 2']	1	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	1
+26434724	821279	['LONGIFOLIA 2']	1	TO:0000975	grain width|caryopsis width|kernel width	1
+26434724	821279	['LONGIFOLIA 2']	1	TO:0002626	fruit length|grain length|GRLG|pod length	1
+26434724	821279	['LONGIFOLIA 2']	1	TO:0002687	cell elongation trait|cell length	1
+26443376	856091	['LPA1']	2	TO:0000337	kneeing ability|KnA|KNEAB|tiller angle	1
+26443376	856091	['LPA1']	2	TO:0000567	tiller angle|TIAG	1
+26443376	856091	['LPA1']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+26443376	856091	['LPA1']	2	TO:0006001	salt tolerance|SALTTL	1
+26453745	817546	['AtCYP19-4']	3	TO:0000072	awn length|An|awning|AWNLG	2
+26453745	817546	['AtCYP19-4']	3	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+26453745	817546	['AtCYP19-4']	3	TO:0000346	tiller number|TINB	1
+26453745	817546	['AtCYP19-4']	3	TO:0000387	plant trait|plant phenotype|plant quality	1
+26453745	817546	['AtCYP19-4']	3	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	1
+26453745	817546	['AtCYP19-4']	3	TO:0002759	grain number|GRNB|kernel number	1
+26453745	817546	['AtCYP19-4']	3	TO:0000303	cold tolerance|COLDTL|CTol	1
+26504138	838877	['AtSUC2']	3	TO:0000397	grain size|GRSZ	1
+26504138	838877	['AtSUC2']	3	TO:0002759	grain number|GRNB|kernel number	1
+26504138	838877	['AtSUC2']	3	TO:0000153	relative yield|RELYLD|RY	1
+26607171	820622	['AtCCX3']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+26607171	820622	['AtCCX3']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+26607171	837416	['AtCCX5']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+26607171	837416	['AtCCX5']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+26607171	853312;853924	['trk1trk2']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+26607171	853312;853924	['trk1trk2']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+26601214	850445	['Tup1']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+26601214	850445	['Tup1']	1	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+26601214	827103	['IAA1']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+26601214	827103	['IAA1']	1	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+26601214	839290	['IAA10']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+26601214	839290	['IAA10']	1	TO:0000401	plant growth hormone sensitivity|growth regulator sensitivity|plant hormone response	1
+26598971	840149	['FdC2', 'AtFdC2']	4	TO:0001015	photosynthetic rate|gross photosynthetic rate|leaf photosynthetic rate	3
+26598971	840149	['FdC2', 'AtFdC2']	4	TO:0000137	days to heading|DTHD|heading date	2
+26598971	840149	['FdC2', 'AtFdC2']	4	TO:0000299	leaf lamina color|LBC|leaf blade color|leaf color|LFLCL	1
+26598971	840149	['FdC2', 'AtFdC2']	4	TO:0000326	leaf color|LFCL	1
+26598971	840149	['FdC2', 'AtFdC2']	4	TO:0000387	plant trait|plant phenotype|plant quality	1
+26598971	840149	['FdC2', 'AtFdC2']	4	TO:0000581	inflorescence color|head color	1
+26598971	840149	['FdC2', 'AtFdC2']	4	TO:0000708	plant color	1
+26598971	840149	['FdC2', 'AtFdC2']	4	TO:0000495	chlorophyll content|CHLCN	1
+26708605	24	['ATP-Binding Cassette Transporter']	1	TO:0000478	abscisic acid concentration|ABA concentration|ABACONC|abscisic acid accumulation|abscisic acid content	1
+26708605	24	['ATP-Binding Cassette Transporter']	1	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	1
+26708605	5954	['RCN1', 'GFP-RCN1', 'rcn1']	10	TO:0000478	abscisic acid concentration|ABA concentration|ABACONC|abscisic acid accumulation|abscisic acid content	1
+26708605	5954	['RCN1', 'GFP-RCN1', 'rcn1']	10	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	1
+26734051	836693	['GFP-OsIAA9']	1	TO:0000084	root number|RTNB|tnr	1
+26734051	836693	['GFP-OsIAA9']	1	TO:0001013	lateral root number	1
+26734051	838573	['ARF5']	1	TO:0000084	root number|RTNB|tnr	1
+26734051	838573	['ARF5']	1	TO:0001013	lateral root number	1
+26734051	839913	['ARF6']	1	TO:0000084	root number|RTNB|tnr	1
+26734051	839913	['ARF6']	1	TO:0001013	lateral root number	1
+26754668	732804	['BT1', 'ZmBt1', 'ZmBT1']	5	TO:0000397	grain size|GRSZ	1
+26754668	732804	['BT1', 'ZmBt1', 'ZmBT1']	5	TO:0002655	starch grain size	1
+26754668	732804	['BT1', 'ZmBt1', 'ZmBT1']	5	TO:0000181	seed weight|SDWT	1
+26826218	814725	['AtIDD15']	1	TO:0000163	auxin sensitivity|AUXSN|IAA response|IAA sensitivity|indole-3-acetic acid response|indole-3-acetic acid sensitivity	2
+26834769	3162	['HO-1']	11	TO:0000207	plant height|Ht|PTHT|shoot height	4
+26834769	3162	['HO-1']	11	TO:0000608	sodium content	1
+26870074	852499	['SRO1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+26870074	852499	['SRO1']	1	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+26969743	817206	['AKT1', 'akt1']	7	TO:0000737	plant aspect	1
+26969743	817206	['AKT1', 'akt1']	7	TO:0000525	sodium to potassium content ratio|Na/K ratio|NAKRO|sodium to potassium ratio	1
+26969743	817206	['AKT1', 'akt1']	7	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+26969743	817206	['AKT1', 'akt1']	7	TO:0000188	drought sensitivity|drought susceptibility|DRS|DRSN	1
+26969743	817206	['AKT1', 'akt1']	7	TO:0000276	drought tolerance|drought resistance|DRTL	1
+26973288	4324302	['MYB']	1	TO:0000428	callus induction|CAIND	1
+27020034	823622	['PaO', 'ACD1', 'acd1']	7	TO:0000241	leaf number|LFNB	1
+27020034	823622	['PaO', 'ACD1', 'acd1']	7	TO:0000346	tiller number|TINB	1
+27020034	823622	['PaO', 'ACD1', 'acd1']	7	TO:0002759	grain number|GRNB|kernel number	1
+27020034	823622	['PaO', 'ACD1', 'acd1']	7	TO:0000406	panicle threshability|PNTH|Thr	1
+27095404	542847	['CCD1', 'TaCCD1']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+27095404	542847	['CCD1', 'TaCCD1']	2	TO:0006001	salt tolerance|SALTTL	4
+27105887	829902	['KAI2']	2	TO:0002639	shoot branching	1
+27105887	819554	['D14', 'AtD14']	2	TO:0002639	shoot branching	1
+26408146	107813429	['phosphoglycerate kinase', 'Phosphoglycerate kinase', 'PGK']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+26408146	107813429	['phosphoglycerate kinase', 'Phosphoglycerate kinase', 'PGK']	4	TO:0006001	salt tolerance|SALTTL	1
+26408146	107813429	['phosphoglycerate kinase', 'Phosphoglycerate kinase', 'PGK']	4	TO:0000387	plant trait|plant phenotype|plant quality	1
+26927068	853523	['CBF1']	7	TO:0000737	plant aspect	1
+26927068	853523	['CBF1']	7	TO:0000303	cold tolerance|COLDTL|CTol	1
+27121976	817232	['AtABCG32']	1	TO:0000828	leaf cover	1
+27121976	817232	['AtABCG32']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+26491145	828714	['AtABI1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+26491145	835809	['AtABI2']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+25192280	94103	['ORMDL3']	1	TO:0000067	genic male sterility-thermo sensitive|TGMS|thermo sensitive genic male sterility	1
+25192280	94103	['ORMDL3']	1	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+25192280	94103	['ORMDL3']	1	TO:0000421	pollen fertility|POFRT	1
+27200067	841273	['GatB']	2	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+27200067	841273	['GatB']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+27200067	841273	['GatB']	2	TO:0002687	cell elongation trait|cell length	1
+27200067	841273	['GatB']	2	TO:0020107	plant cell length	1
+27200067	852198	['PET112']	1	TO:0000227	root length|maximum root depth|maximum root length|MRD|MRL|RTLG	1
+27200067	852198	['PET112']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+27200067	852198	['PET112']	1	TO:0002687	cell elongation trait|cell length	1
+27200067	852198	['PET112']	1	TO:0020107	plant cell length	1
+27208309	823994	['BT2', 'bt2']	7	TO:0000283	biological process trait|physiological process trait	1
+27208309	823994	['BT2', 'bt2']	7	TO:0020100	nitrate uptake	2
+27208309	836437	['bt1', 'BT1']	4	TO:0000283	biological process trait|physiological process trait	1
+27208309	836437	['bt1', 'BT1']	4	TO:0020100	nitrate uptake	2
+27297403	29141363	['psaA', 'PsaA']	1	TO:0000298	chlorophyll ratio|chl a to chl b ratio|chl-a to chl-b ratio|chlorophyll content ratio|CHLRO	1
+27297403	29141363	['psaA', 'PsaA']	1	TO:0000522	stomatal conductance|STOCOND	1
+27297403	29141363	['psaA', 'PsaA']	1	TO:0001015	photosynthetic rate|gross photosynthetic rate|leaf photosynthetic rate	1
+27297403	29141363	['psaA', 'PsaA']	1	TO:0001018	transpiration rate	1
+27297403	29141363	['psaA', 'PsaA']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+27297403	29141362	['PsaB']	1	TO:0000298	chlorophyll ratio|chl a to chl b ratio|chl-a to chl-b ratio|chlorophyll content ratio|CHLRO	1
+27297403	29141362	['PsaB']	1	TO:0000522	stomatal conductance|STOCOND	1
+27297403	29141362	['PsaB']	1	TO:0001015	photosynthetic rate|gross photosynthetic rate|leaf photosynthetic rate	1
+27297403	29141362	['PsaB']	1	TO:0001018	transpiration rate	1
+27297403	29141362	['PsaB']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+27318280	820202	['FLOWERING LOCUS D']	2	TO:0000371	yield trait|YLD	1
+27318280	820202	['FLOWERING LOCUS D']	2	TO:0000137	days to heading|DTHD|heading date	1
+27373308	4336968	['FC1', 'FC1-2']	6	TO:0000371	yield trait|YLD	1
+27373308	4336968	['FC1', 'FC1-2']	6	TO:0000051	stem strength|Cs|culm strength|CULMSTR|STEMSTR	2
+27373308	4336968	['FC1', 'FC1-2']	6	TO:0000339	stem thickness|culm thickness|culm thickness|CULMTH|STEMTH	4
+27373308	4336968	['FC1', 'FC1-2']	6	TO:0001035	stem width|culm diameter|culm width	1
+27373308	4336968	['FC1', 'FC1-2']	6	TO:0020083	stem diameter|culm diameter	1
+27405463	831441	['CONSTANS']	3	TO:0000387	plant trait|plant phenotype|plant quality	1
+27405463	831441	['CONSTANS']	3	TO:0000860	flower length	1
+27457985	29141396	['ClpP']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+27457985	29141396	['ClpP']	1	TO:0006001	salt tolerance|SALTTL	1
+27493611	842378	['AGD2', 'agd2']	2	TO:0000423	gall midge resistance|GM|GMRS	2
+27493611	842378	['AGD2', 'agd2']	2	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+27493611	842378	['AGD2', 'agd2']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+27493611	815864	['ALD1']	5	TO:0000423	gall midge resistance|GM|GMRS	2
+27493611	815864	['ALD1']	5	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	1
+27493611	815864	['ALD1']	5	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+27717449	4336705	['Roc4']	8	TO:0000860	flower length	1
+27717449	4336705	['Roc4']	8	TO:0000207	plant height|Ht|PTHT|shoot height	1
+27717449	4336705	['Roc4']	8	TO:0002759	grain number|GRNB|kernel number	1
+27717449	107276161	['Ghd7']	7	TO:0000860	flower length	1
+27717449	107276161	['Ghd7']	7	TO:0000207	plant height|Ht|PTHT|shoot height	1
+27717449	107276161	['Ghd7']	7	TO:0002759	grain number|GRNB|kernel number	1
+27585744	29141377	['atpB', 'AtpB']	2	TO:0000495	chlorophyll content|CHLCN	1
+27621738	4340087	['Ef7', 'ef7', 'Hd17']	3	TO:0000137	days to heading|DTHD|heading date	2
+27621738	107276161	['Ghd7']	7	TO:0000137	days to heading|DTHD|heading date	2
+27619227	29141357	['ATPF']	2	TO:0000135	leaf length|LFLG|lfln|LL	1
+27619227	29141357	['ATPF']	2	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	4
+27619227	29141357	['ATPF']	2	TO:0000207	plant height|Ht|PTHT|shoot height	1
+27619227	29141357	['ATPF']	2	TO:0000370	leaf width|LFWD|lfwid|LW	1
+27619227	29141357	['ATPF']	2	TO:0000495	chlorophyll content|CHLCN	1
+27619227	29141357	['ATPF']	2	TO:0000541	leaf position|leaf height|LFHT	1
+27619227	29141357	['ATPF']	2	TO:0006062	plant width	1
+27619227	29141357	['ATPF']	2	TO:0012002	leaf chlorophyll content	1
+27619227	29141357	['ATPF']	2	TO:0000106	male sterility type|MS	1
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0000135	leaf length|LFLG|lfln|LL	1
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	4
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0000207	plant height|Ht|PTHT|shoot height	1
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0000370	leaf width|LFWD|lfwid|LW	1
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0000495	chlorophyll content|CHLCN	1
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0000541	leaf position|leaf height|LFHT	1
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0006062	plant width	1
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0012002	leaf chlorophyll content	1
+27619227	29141363	['psaA', 'PsaA', 'PSAA']	2	TO:0000106	male sterility type|MS	1
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0000135	leaf length|LFLG|lfln|LL	1
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	4
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0000207	plant height|Ht|PTHT|shoot height	1
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0000370	leaf width|LFWD|lfwid|LW	1
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0000495	chlorophyll content|CHLCN	1
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0000541	leaf position|leaf height|LFHT	1
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0006062	plant width	1
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0012002	leaf chlorophyll content	1
+27619227	29141362	['PsaB', 'PSAB']	2	TO:0000106	male sterility type|MS	1
+27619227	29141397	['PSBB']	2	TO:0000135	leaf length|LFLG|lfln|LL	1
+27619227	29141397	['PSBB']	2	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	4
+27619227	29141397	['PSBB']	2	TO:0000207	plant height|Ht|PTHT|shoot height	1
+27619227	29141397	['PSBB']	2	TO:0000370	leaf width|LFWD|lfwid|LW	1
+27619227	29141397	['PSBB']	2	TO:0000495	chlorophyll content|CHLCN	1
+27619227	29141397	['PSBB']	2	TO:0000541	leaf position|leaf height|LFHT	1
+27619227	29141397	['PSBB']	2	TO:0006062	plant width	1
+27619227	29141397	['PSBB']	2	TO:0012002	leaf chlorophyll content	1
+27619227	29141397	['PSBB']	2	TO:0000106	male sterility type|MS	1
+27653809	50507	['Kox']	2	TO:0001015	photosynthetic rate|gross photosynthetic rate|leaf photosynthetic rate	2
+27653809	50507	['Kox']	2	TO:0000522	stomatal conductance|STOCOND	2
+27663411	820063	['dex1']	1	TO:0000053	pollen sterility	1
+27663411	820063	['dex1']	1	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+27683092	818903	['Phytochrome-Interacting Factor4', 'PIF4', 'PHYTOCHROME', 'PHYTOCHROME-INTERACTING FACTOR 4']	4	TO:0000276	drought tolerance|drought resistance|DRTL	3
+27683092	818903	['Phytochrome-Interacting Factor4', 'PIF4', 'PHYTOCHROME', 'PHYTOCHROME-INTERACTING FACTOR 4']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+27683092	818903	['Phytochrome-Interacting Factor4', 'PIF4', 'PHYTOCHROME', 'PHYTOCHROME-INTERACTING FACTOR 4']	4	TO:0000168	abiotic stress trait|abiotic stress tolerance	1
+27722771	100127084	['FERRITIN']	2	TO:0000351	zinc sensitivity|PDef|zinc deficiency|ZNSN	4
+27722771	100127084	['FERRITIN']	2	TO:0000080	micronutrient sensitivity|micronutrient deficiency	3
+27771250	4329728	['KSL5']	1	TO:0000992	gibberellin biosynthesis trait|gibberellin biosynthesis	1
+27795685	4347178	['DEP1']	8	TO:0000256	genetic trait	1
+27795685	4347178	['DEP1']	8	TO:0000072	awn length|An|awning|AWNLG	1
+27795685	4347178	['DEP1']	8	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+27795685	4347178	['DEP1']	8	TO:0000447	filled grain number|FGRNB|FILGRNB|filled fruit number|filled grain number per panicle|grain number per panicle|GRNBPPN|number of grains per panicle	1
+27795685	4347178	['DEP1']	8	TO:0000547	primary branch number|NPB|number of primary rachis branches|panicle primary branch number|PBRNB|PRB|primary branches per panicle	3
+27795685	4347178	['DEP1']	8	TO:0000557	secondary branch number|SBRNB|secondary branches per panicle	2
+27795685	4347178	['DEP1']	8	TO:0002759	grain number|GRNB|kernel number	1
+27814357	4327329	['D2', 'd2']	4	TO:0000039	yield component	1
+27814357	4327329	['D2', 'd2']	4	TO:0000337	kneeing ability|KnA|KNEAB|tiller angle	7
+27814357	4327329	['D2', 'd2']	4	TO:0000567	tiller angle|TIAG	7
+27813190	831741	['STN8', 'stn8', 'AtSTN8']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+27888467	855828	['GAL4']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+27913740	828553	['CER2']	2	TO:0002687	cell elongation trait|cell length	1
+27913740	843182	['CER6']	1	TO:0002687	cell elongation trait|cell length	1
+27968995	844187	['SPS1', 'sps1']	2	TO:0000331	sucrose phosphate synthase activity trait|SPS|SPSACT|sucrose 6-phosphate synthase|sucrose phosphate synthetase|sucrose phosphate-uridine diphosphate glucosyltransferase|sucrose-phosphate synthase activity|sucrosephosphate-UDP glucosyltransferase|UDP-glucose-fructose-phosphate glucosyltransferase|uridine diphosphoglucose-fructose phosphate glucosyltransferase	7
+27968995	844187	['SPS1', 'sps1']	2	TO:0000291	carbohydrate content|CARBCN	1
+28013072	146	['alpha-1,3']	5	TO:0000598	protein content|PROTCN|total protein content	1
+28096805	9272143	['Pi54']	13	TO:0000256	genetic trait	1
+28096805	9272143	['Pi54']	13	TO:0000497	fertility restoration trait|RF	2
+28110460	9272629	['Rf1']	1	TO:0000169	chinsurah boro CMS|BOROCMS|CMS-boro	1
+28110460	9272629	['Rf1']	1	TO:0000232	rice cytoplasmic male sterility|CMS|cytoplasmic male sterility	5
+28110460	9272629	['Rf1']	1	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+28110460	9272629	['Rf1']	1	TO:0000580	cytoplasmic male sterility	1
+28110460	9272629	['Rf1']	1	TO:0000355	heterosis|HET|heterosis in f1 hybrid|hybrid vigor	1
+28110460	9272629	['Rf1']	1	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	2
+28191468	4330713	['Lsi1']	5	TO:0000495	chlorophyll content|CHLCN	1
+25641188	829949	['SHM1']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+25641188	829949	['SHM1']	1	TO:0002657	oxidative stress	1
+26025517	826630	['AtNIP5;1']	1	TO:0000018	boron sensitivity|boron deficiency|BOSN	1
+26025517	826630	['AtNIP5;1']	1	TO:0000346	tiller number|TINB	1
+26025517	826630	['AtNIP5;1']	1	TO:0000421	pollen fertility|POFRT	1
+27208292	826609	['DET1']	4	TO:0000387	plant trait|plant phenotype|plant quality	2
+28217135	732751	['TPS10', 'tps10']	2	TO:0006067	aphid resistance	1
+28254780	830576	['FTIP1']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+28263767	829919	['SHR', 'AtSHR', 'shr']	5	TO:0000084	root number|RTNB|tnr	2
+28301324	5883	['Rad9']	1	TO:0000163	auxin sensitivity|AUXSN|IAA response|IAA sensitivity|indole-3-acetic acid response|indole-3-acetic acid sensitivity	1
+28301324	851803	['Rad9']	3	TO:0000163	auxin sensitivity|AUXSN|IAA response|IAA sensitivity|indole-3-acetic acid response|indole-3-acetic acid sensitivity	1
+28299960	843716	['SARD1', 'AtSARD1']	6	TO:0000387	plant trait|plant phenotype|plant quality	2
+28299960	843716	['SARD1', 'AtSARD1']	6	TO:0000207	plant height|Ht|PTHT|shoot height	1
+28299960	832750	['AtCBP60g']	1	TO:0000387	plant trait|plant phenotype|plant quality	2
+28299960	832750	['AtCBP60g']	1	TO:0000207	plant height|Ht|PTHT|shoot height	1
+28332574	29141377	['atpB', 'AtpB']	1	TO:0000303	cold tolerance|COLDTL|CTol	4
+28330558	821492	['AtPUT5', 'PUT5', 'put5']	4	TO:0000881	flower type	1
+28330558	840073	['AtPUT2']	1	TO:0000881	flower type	1
+28330558	830446	['AtPUT3']	1	TO:0000881	flower type	1
+28340002	836163	['SIZ1', 'siz1', 'ATSIZ1', 'AtSIZ1']	4	TO:0000188	drought sensitivity|drought susceptibility|DRS|DRSN	1
+28340002	836163	['SIZ1', 'siz1', 'ATSIZ1', 'AtSIZ1']	4	TO:0000429	salt sensitivity|Sal|saline sensitivity|SALTSN	1
+28340002	836163	['SIZ1', 'siz1', 'ATSIZ1', 'AtSIZ1']	4	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+28340002	836163	['SIZ1', 'siz1', 'ATSIZ1', 'AtSIZ1']	4	TO:0000168	abiotic stress trait|abiotic stress tolerance	2
+28340002	836163	['SIZ1', 'siz1', 'ATSIZ1', 'AtSIZ1']	4	TO:0000259	heat tolerance|HTol	1
+28340002	836163	['SIZ1', 'siz1', 'ATSIZ1', 'AtSIZ1']	4	TO:0000276	drought tolerance|drought resistance|DRTL	1
+28371923	817267	['CLAVATA3', 'CLV3']	1	TO:0006038	floral organ number	1
+28371923	817267	['CLAVATA3', 'CLV3']	1	TO:0002659	pistil number	1
+28378532	842114	['AtGolS2']	6	TO:0000276	drought tolerance|drought resistance|DRTL	4
+28378532	842114	['AtGolS2']	6	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+28378532	842114	['AtGolS2']	6	TO:0002759	grain number|GRNB|kernel number	1
+28378532	842114	['AtGolS2']	6	TO:0000136	leaf relative water content|leaf relative water content|rec|RELWCN	2
+28394310	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	1	TO:0000397	grain size|GRSZ	1
+28394310	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	1	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	2
+28394310	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2']	1	TO:0000975	grain width|caryopsis width|kernel width	3
+28414264	822287	['ICE1', 'INDUCER OF CBF EXPRESSION 1', 'AtICE1']	5	TO:0000303	cold tolerance|COLDTL|CTol	3
+28494021	10521	['P7-2']	11	TO:0000166	gibberellic acid sensitivity|GA3 response|GASN|GB response|gibberellic acid response|Gibberellin response	1
+28494021	10521	['P7-2']	11	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+28494021	6500	['SKP1', 'S-phase kinase-associated protein 1']	5	TO:0000166	gibberellic acid sensitivity|GA3 response|GASN|GB response|gibberellic acid response|Gibberellin response	1
+28494021	6500	['SKP1', 'S-phase kinase-associated protein 1']	5	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+28578018	822324	['TSO2']	1	TO:0000069	variegated leaf|albino leaf striping|leaf stripes	3
+28578018	822324	['TSO2']	1	TO:0000495	chlorophyll content|CHLCN	1
+28578018	822324	['TSO2']	1	TO:0000504	leaf temperature|LFTMP	1
+28578018	822324	['TSO2']	1	TO:0012002	leaf chlorophyll content	1
+28578018	822324	['TSO2']	1	TO:0000822	leaf midvein morphology trait|leaf midrib	1
+28578018	822324	['TSO2']	1	TO:0000823	leaf midvein thickness|leaf midrib	1
+28578018	822324	['TSO2']	1	TO:0000207	plant height|Ht|PTHT|shoot height	1
+23496930	100049034	['TaSGT1', 'SGT1']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+28585692	836348	['GCD1', 'GAMETE CELLS DEFECTIVE1']	2	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+28636095	9266343	['SaF']	5	TO:0000355	heterosis|HET|heterosis in f1 hybrid|hybrid vigor	1
+28636095	9266343	['SaF']	5	TO:0000053	pollen sterility	1
+28636095	9266343	['SaF']	5	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	2
+28631167	836020	['COPT1']	3	TO:0006049	iron concentration	4
+28631167	836020	['COPT1']	3	TO:0006052	copper concentration	3
+28621888	55611	['OTUB1']	1	TO:0000371	yield trait|YLD	1
+28621888	55611	['OTUB1']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+28621888	55611	['OTUB1']	1	TO:0000397	grain size|GRSZ	6
+28621888	55611	['OTUB1']	1	TO:0002730	grain shape|dehulled grain shape|DHULGRSHP|GRSHP	6
+28621888	55611	['OTUB1']	1	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+28621888	55611	['OTUB1']	1	TO:0000447	filled grain number|FGRNB|FILGRNB|filled fruit number|filled grain number per panicle|grain number per panicle|GRNBPPN|number of grains per panicle	1
+28621888	55611	['OTUB1']	1	TO:0002759	grain number|GRNB|kernel number	1
+28626008	833556	['Sap']	1	TO:0000520	stomatal closure rate|STOCSRRATE	1
+28626008	833556	['Sap']	1	TO:0001018	transpiration rate	1
+28680100	831888	['SQD2', 'sqd2']	10	TO:0000371	yield trait|YLD	1
+28680100	831888	['SQD2', 'sqd2']	10	TO:0000697	starch yield|STARCHYLD	1
+28680100	831888	['SQD2', 'sqd2']	10	TO:0000905	seed yield trait	1
+28680100	831888	['SQD2', 'sqd2']	10	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+28680100	831888	['SQD2', 'sqd2']	10	TO:0000346	tiller number|TINB	1
+28680100	7360	['uridine diphosphate-glucose']	1	TO:0000371	yield trait|YLD	1
+28680100	7360	['uridine diphosphate-glucose']	1	TO:0000697	starch yield|STARCHYLD	1
+28680100	7360	['uridine diphosphate-glucose']	1	TO:0000905	seed yield trait	1
+28680100	7360	['uridine diphosphate-glucose']	1	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+28680100	7360	['uridine diphosphate-glucose']	1	TO:0000346	tiller number|TINB	1
+28715430	4327333	['Gn1a']	1	TO:0000162	grain quality trait	1
+28715430	4327333	['Gn1a']	1	TO:0000371	yield trait|YLD	1
+28715430	4327333	['Gn1a']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+28715430	4327333	['Gn1a']	1	TO:0000072	awn length|An|awning|AWNLG	1
+28715430	4340567	['ALK']	1	TO:0000162	grain quality trait	1
+28715430	4340567	['ALK']	1	TO:0000371	yield trait|YLD	1
+28715430	4340567	['ALK']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+28715430	4340567	['ALK']	1	TO:0000072	awn length|An|awning|AWNLG	1
+28715430	4340087	['Ef7', 'ef7', 'Hd17']	1	TO:0000162	grain quality trait	1
+28715430	4340087	['Ef7', 'ef7', 'Hd17']	1	TO:0000371	yield trait|YLD	1
+28715430	4340087	['Ef7', 'ef7', 'Hd17']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+28715430	4340087	['Ef7', 'ef7', 'Hd17']	1	TO:0000072	awn length|An|awning|AWNLG	1
+28715430	4330574	['DTH2']	1	TO:0000162	grain quality trait	1
+28715430	4330574	['DTH2']	1	TO:0000371	yield trait|YLD	1
+28715430	4330574	['DTH2']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+28715430	4330574	['DTH2']	1	TO:0000072	awn length|An|awning|AWNLG	1
+28715430	4344443	['Ehd3']	1	TO:0000162	grain quality trait	1
+28715430	4344443	['Ehd3']	1	TO:0000371	yield trait|YLD	1
+28715430	4344443	['Ehd3']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+28715430	4344443	['Ehd3']	1	TO:0000072	awn length|An|awning|AWNLG	1
+28726715	107799583	['catalase', 'CAT']	2	TO:0000303	cold tolerance|COLDTL|CTol	1
+28726715	107799583	['catalase', 'CAT']	2	TO:0000495	chlorophyll content|CHLCN	1
+28726715	107799583	['catalase', 'CAT']	2	TO:0000605	hydrogen peroxide content|H2O2 content|H2O2CN	1
+28726715	107773042	['peroxidase', 'POD']	2	TO:0000303	cold tolerance|COLDTL|CTol	1
+28726715	107773042	['peroxidase', 'POD']	2	TO:0000495	chlorophyll content|CHLCN	1
+28726715	107773042	['peroxidase', 'POD']	2	TO:0000605	hydrogen peroxide content|H2O2 content|H2O2CN	1
+28751900	844187	['SPS1', 'sps1', 'AtSPS1']	1	TO:0000106	male sterility type|MS	1
+28751900	844187	['SPS1', 'sps1', 'AtSPS1']	1	TO:0000495	chlorophyll content|CHLCN	1
+28751900	844187	['SPS1', 'sps1', 'AtSPS1']	1	TO:0000496	carotenoid content|CRTCN	1
+28751900	844187	['SPS1', 'sps1', 'AtSPS1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+28751900	838275	['AtSPS2']	1	TO:0000106	male sterility type|MS	1
+28751900	838275	['AtSPS2']	1	TO:0000495	chlorophyll content|CHLCN	1
+28751900	838275	['AtSPS2']	1	TO:0000496	carotenoid content|CRTCN	1
+28751900	838275	['AtSPS2']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+28761150	830377	['NICOTIANAMINE SYNTHASE 1', 'AtNAS1']	2	TO:0000080	micronutrient sensitivity|micronutrient deficiency	2
+28761150	830377	['NICOTIANAMINE SYNTHASE 1', 'AtNAS1']	2	TO:0000351	zinc sensitivity|PDef|zinc deficiency|ZNSN	1
+28761150	830377	['NICOTIANAMINE SYNTHASE 1', 'AtNAS1']	2	TO:0000289	carotene content	1
+28776570	8879	['SPL']	1	TO:0000256	genetic trait	1
+28776570	8879	['SPL']	1	TO:0000017	plant morphology trait|plant architecture trait|plant structure trait	1
+28776570	8879	['SPL']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+28776570	8879	['SPL']	1	TO:0000346	tiller number|TINB	1
+28776570	8879	['SPL']	1	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	1
+28776570	8879	['SPL']	1	TO:0002759	grain number|GRNB|kernel number	1
+28776570	55611	['OTUB1']	3	TO:0000256	genetic trait	1
+28776570	55611	['OTUB1']	3	TO:0000017	plant morphology trait|plant architecture trait|plant structure trait	1
+28776570	55611	['OTUB1']	3	TO:0000387	plant trait|plant phenotype|plant quality	1
+28776570	55611	['OTUB1']	3	TO:0000346	tiller number|TINB	1
+28776570	55611	['OTUB1']	3	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	1
+28776570	55611	['OTUB1']	3	TO:0002759	grain number|GRNB|kernel number	1
+28775143	830996	['HY5', 'AtHY5', 'Athy5']	10	TO:0000207	plant height|Ht|PTHT|shoot height	1
+28775143	821027	['AtHYH']	1	TO:0000207	plant height|Ht|PTHT|shoot height	1
+28789632	855009	['GLO1']	5	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	2
+28789632	854205	['GLO4']	4	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	2
+28789632	856859	['GLO3']	3	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	2
+28801565	842733	['NPR1', 'npr1', 'AtNPR1']	3	TO:0002657	oxidative stress	1
+28805492	818903	['Phytochrome-Interacting Factor4', 'PIF4', 'PHYTOCHROME', 'PHYTOCHROME-INTERACTING FACTOR 4']	3	TO:0000241	leaf number|LFNB	1
+28805492	818903	['Phytochrome-Interacting Factor4', 'PIF4', 'PHYTOCHROME', 'PHYTOCHROME-INTERACTING FACTOR 4']	3	TO:0000387	plant trait|plant phenotype|plant quality	1
+28805492	825075	['PIF5']	1	TO:0000241	leaf number|LFNB	1
+28805492	825075	['PIF5']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+28805492	833957	['ORESARA1', 'ORE1']	1	TO:0000241	leaf number|LFNB	1
+28805492	833957	['ORESARA1', 'ORE1']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+28816596	841427	['AtTOR', 'TOR']	7	TO:0002638	shoot meristem development|shoot meristem abortion	1
+28816596	841427	['AtTOR', 'TOR']	7	TO:0002692	root meristem development	1
+28816596	841427	['AtTOR', 'TOR']	7	TO:0006020	shoot apical meristem development	1
+28816596	841427	['AtTOR', 'TOR']	7	TO:0006031	inflorescence size	1
+28816596	843915	['CLAVATA1', 'CLV1', 'AtCLV1']	1	TO:0002638	shoot meristem development|shoot meristem abortion	1
+28816596	843915	['CLAVATA1', 'CLV1', 'AtCLV1']	1	TO:0002692	root meristem development	1
+28816596	843915	['CLAVATA1', 'CLV1', 'AtCLV1']	1	TO:0006020	shoot apical meristem development	1
+28816596	843915	['CLAVATA1', 'CLV1', 'AtCLV1']	1	TO:0006031	inflorescence size	1
+28816596	817267	['CLAVATA3', 'CLV3', 'AtCLV3']	1	TO:0002638	shoot meristem development|shoot meristem abortion	1
+28816596	817267	['CLAVATA3', 'CLV3', 'AtCLV3']	1	TO:0002692	root meristem development	1
+28816596	817267	['CLAVATA3', 'CLV3', 'AtCLV3']	1	TO:0006020	shoot apical meristem development	1
+28816596	817267	['CLAVATA3', 'CLV3', 'AtCLV3']	1	TO:0006031	inflorescence size	1
+28821594	831258	['LAZY1', 'AtLAZY1', 'atlazy1']	4	TO:1000009	branch angle|branching angle|shoot axis branch angle	8
+28838125	843628	['HTH']	2	TO:0000421	pollen fertility|POFRT	1
+28049740	348654	['GEN1']	4	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+28049740	80198	['Mus81', 'MUS81']	2	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+28049740	146956	['Mms4', 'EME1']	2	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+28049740	84464	['Slx4', 'SLX4']	2	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+28905253	9272143	['Pi54']	3	TO:0000074	blast disease resistance|blast disease resistance trait|blast disease susceptibility	2
+28905253	9272143	['Pi54']	3	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+28904339	29141377	['atpB', 'AtpB']	1	TO:0000421	pollen fertility|POFRT	1
+28904339	29141377	['atpB', 'AtpB']	1	TO:0000053	pollen sterility	1
+28922766	10938	['Ehd1']	1	TO:0000495	chlorophyll content|CHLCN	1
+28922766	10938	['Ehd1']	1	TO:0012002	leaf chlorophyll content	1
+28922766	10938	['Ehd1']	1	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+28922766	10938	['Ehd1']	1	TO:0000346	tiller number|TINB	1
+28922766	10938	['Ehd1']	1	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+28922766	30846	['Ehd2']	1	TO:0000495	chlorophyll content|CHLCN	1
+28922766	30846	['Ehd2']	1	TO:0012002	leaf chlorophyll content	1
+28922766	30846	['Ehd2']	1	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+28922766	30846	['Ehd2']	1	TO:0000346	tiller number|TINB	1
+28922766	30846	['Ehd2']	1	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+28922766	30845	['Ehd3']	1	TO:0000495	chlorophyll content|CHLCN	1
+28922766	30845	['Ehd3']	1	TO:0012002	leaf chlorophyll content	1
+28922766	30845	['Ehd3']	1	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+28922766	30845	['Ehd3']	1	TO:0000346	tiller number|TINB	1
+28922766	30845	['Ehd3']	1	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+28922766	30844	['Ehd4']	1	TO:0000495	chlorophyll content|CHLCN	1
+28922766	30844	['Ehd4']	1	TO:0012002	leaf chlorophyll content	1
+28922766	30844	['Ehd4']	1	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+28922766	30844	['Ehd4']	1	TO:0000346	tiller number|TINB	1
+28922766	30844	['Ehd4']	1	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+28932262	827612	['AtCesA8']	4	TO:0000017	plant morphology trait|plant architecture trait|plant structure trait	1
+28932262	827612	['AtCesA8']	4	TO:0000387	plant trait|plant phenotype|plant quality	2
+28994391	4143	['SAMS', 'S-Adenosyl-l-methionine synthetase', 'SAMS1']	1	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+28994391	4143	['SAMS', 'S-Adenosyl-l-methionine synthetase', 'SAMS1']	1	TO:0000599	enzyme activity trait|enzymatic activity|enzyme catalytic activity	1
+29047257	839472	['HCAR', 'hcar']	6	TO:0000652	leaf necrosis|leaf scorch|LFNEC	1
+29047257	839472	['HCAR', 'hcar']	6	TO:0002657	oxidative stress	1
+29058311	818614	['ABI4']	1	TO:0000253	seed dormancy|SDDOR	1
+29122595	100304287	['BAF1']	1	TO:1000009	branch angle|branching angle|shoot axis branch angle	2
+29122595	100191175	['BRANCH ANGLE DEFECTIVE 1', 'BAD1']	2	TO:1000009	branch angle|branching angle|shoot axis branch angle	2
+29162059	3767694	['miR159']	8	TO:0000040	panicle length|PnL|PNLG	1
+29162059	3767694	['miR159']	8	TO:0000135	leaf length|LFLG|lfln|LL	1
+29162059	3767694	['miR159']	8	TO:0000397	grain size|GRSZ	2
+29162059	3767694	['miR159']	8	TO:0000576	stem length|CmL|core length|culm height|culm length|CULMLG|stem height|STEMLG	1
+29162059	3767694	['miR159']	8	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	1
+29162059	3767694	['miR159']	8	TO:0000892	stem size|core size|stalk size	2
+29162059	3767694	['miR159']	8	TO:0002626	fruit length|grain length|GRLG|pod length	1
+29162059	3767694	['miR159']	8	TO:0002637	leaf size	2
+29162059	3767694	['miR159']	8	TO:0002757	flag leaf length|FLFLG	1
+29162059	3767694	['miR159']	8	TO:0002761	length of grain with hull|HULGRLG|hulled grain length|hulled-grain length	1
+29162059	3767694	['miR159']	8	TO:0002768	spikelet length|SPKLG	1
+29162059	3767694	['miR159']	8	TO:0020083	stem diameter|culm diameter	1
+29162059	3767694	['miR159']	8	TO:0000241	leaf number|LFNB	1
+29162059	3767694	['miR159']	8	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+29162059	3767694	['miR159']	8	TO:0000472	vascular bundle number|VBNB	1
+29162059	3767694	['miR159']	8	TO:0000558	small vascular bundle number|SVBNB	1
+29162059	3767694	['miR159']	8	TO:0000953	stem number|stalk number	1
+29162059	3767694	['miR159']	8	TO:0002684	plant cell size	1
+29162059	3767694	['miR159']	8	TO:0000728	cell cycle trait|cell division cycle	1
+29193778	34286	['pelota', 'PELOTA']	3	TO:0000175	rice bacterial blight disease resistance|BB|BBRS|leaf blight	1
+29193778	34286	['pelota', 'PELOTA']	3	TO:0000204	rice seedling blight disease resistance|kresek|leaf blight|SDLBTRS	1
+29193778	40240	['eukaryotic release factor 1', 'eRF1']	2	TO:0000175	rice bacterial blight disease resistance|BB|BBRS|leaf blight	1
+29193778	40240	['eukaryotic release factor 1', 'eRF1']	2	TO:0000204	rice seedling blight disease resistance|kresek|leaf blight|SDLBTRS	1
+29282604	839280	['LAP6']	2	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+29295941	838165	['IRX4']	1	TO:0002672	auxin content|AUXCN	1
+29356349	836311	['BON1']	1	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	5
+29358563	840158	['MYC2', 'AtMYC2', 'atmyc2']	12	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+29358563	840158	['MYC2', 'AtMYC2', 'atmyc2']	12	TO:0000315	bacterial disease resistance	1
+29358563	839871	['CAB1']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+29358563	839871	['CAB1']	2	TO:0000315	bacterial disease resistance	1
+29411094	829637	['lap5', 'LAP5']	2	TO:0000053	pollen sterility	1
+29411094	829637	['lap5', 'LAP5']	2	TO:0000106	male sterility type|MS	1
+29411094	829637	['lap5', 'LAP5']	2	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+29434613	4340746	['HD1', 'Hd1']	2	TO:0000137	days to heading|DTHD|heading date	2
+29434613	107276161	['Ghd7']	2	TO:0000137	days to heading|DTHD|heading date	2
+29511225	5265	['Pi1']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+29532023	834213	['DL1']	3	TO:0002639	shoot branching	2
+29541083	841400	['ZHOUPI', 'AtZHOUPI', 'AtZOU', 'Atzou']	6	TO:0000559	plant volume|SP|space	1
+29541083	841400	['ZHOUPI', 'AtZHOUPI', 'AtZOU', 'Atzou']	6	TO:0000587	endosperm quality|End|endosperm quality	2
+29558397	821806	['AOX1a', 'AtAOX1a']	2	TO:0002657	oxidative stress	1
+29558397	825844	['AtNDB2']	1	TO:0002657	oxidative stress	1
+29566164	855731	['dom34', 'DOM34']	3	TO:0000063	mimic response|disease mimic response|lesion mimic|MIRP	3
+29566032	834354	['AtPht1;3']	1	TO:0000480	nutrient sensitivity|nutrient deficiency	1
+29567670	832968	['ANGUSTIFOLIA3', 'AN3', 'an3']	5	TO:0000492	leaf shape|LFSHP	1
+29567670	832968	['ANGUSTIFOLIA3', 'AN3', 'an3']	5	TO:0002682	plant cell shape	1
+29567670	832968	['ANGUSTIFOLIA3', 'AN3', 'an3']	5	TO:0002637	leaf size	1
+29604159	1981	['eIF4G']	8	TO:0000413	rice tungro virus resistance|RTD|RTVRS	4
+19958136	1981	['eIF4G']	5	TO:0000413	rice tungro virus resistance|RTD|RTVRS	2
+29660235	838744	['AtSWEET1']	2	TO:0000700	fruit sweetness|FRSWEET|SWEET	1
+29660235	838744	['AtSWEET1']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	2
+29660235	838744	['AtSWEET1']	2	TO:0000255	sheath blight disease resistance|ShB|SHBTRS	1
+29684018	841113	['AtWOX4']	1	TO:0000822	leaf midvein morphology trait|leaf midrib	1
+29684018	841113	['AtWOX4']	1	TO:0000823	leaf midvein thickness|leaf midrib	1
+29717020	838161	['FDM1']	2	TO:0006017	meristem identity|meristem determinacy	2
+29717020	838161	['FDM1']	2	TO:0006018	organ identity	1
+29717020	838161	['FDM1']	2	TO:0006019	floral organ identity	1
+29717020	838161	['FDM1']	2	TO:0000209	palea number|PALNB	1
+29717020	838161	['FDM1']	2	TO:0006013	carpel number	1
+29717020	838161	['FDM1']	2	TO:0006037	carpel shape	1
+29855737	828968	['AtSND2']	1	TO:0000993	cellulose content	3
+29855737	828968	['AtSND2']	1	TO:0000072	awn length|An|awning|AWNLG	1
+30060460	844196	['AtBBX22']	1	TO:0000707	pericarp color|bran color|dehulled grain color|DHULGRCL|grain color|PERICARPCL	1
+30060460	844196	['AtBBX22']	1	TO:0000708	plant color	1
+30092285	818581	['coi1', 'COI1', 'coi1-1', 'CORONATINE INSENSITIVE 1']	8	TO:0000737	plant aspect	1
+30096253	818348	['receptor-like kinases', 'RLK', 'Related receptor-like Kinase 2; RLK']	2	TO:0000737	plant aspect	1
+30096253	818348	['receptor-like kinases', 'RLK', 'Related receptor-like Kinase 2; RLK']	2	TO:0006036	stem elongation	2
+30096253	818348	['receptor-like kinases', 'RLK', 'Related receptor-like Kinase 2; RLK']	2	TO:0002687	cell elongation trait|cell length	2
+30096253	818348	['receptor-like kinases', 'RLK', 'Related receptor-like Kinase 2; RLK']	2	TO:0000135	leaf length|LFLG|lfln|LL	1
+30096253	818348	['receptor-like kinases', 'RLK', 'Related receptor-like Kinase 2; RLK']	2	TO:0002689	leaf sheath length|LFSLG	1
+30096253	818348	['receptor-like kinases', 'RLK', 'Related receptor-like Kinase 2; RLK']	2	TO:0011005	penultimate leaf length|PENLFLG|second leaf length	1
+30131812	838363	['AtABCG11']	1	TO:0000188	drought sensitivity|drought susceptibility|DRS|DRSN	1
+30185720	851891	['SUR2', 'sur2']	1	TO:0000258	leaf thickness	1
+30237804	837602	['CER1', 'ECERIFERUM1']	3	TO:0000053	pollen sterility	1
+30286719	7296	['oxidoreductase']	1	TO:0000380	planthopper	5
+30332988	837792	['AtPHR1', 'PHR1']	3	TO:0000515	relative growth rate|RELGRATE	1
+30332988	837792	['AtPHR1', 'PHR1']	3	TO:0000656	root development trait	1
+30444888	842733	['NPR1', 'npr1', 'AtNPR1']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	3
+30444888	842733	['NPR1', 'npr1', 'AtNPR1']	2	TO:0000175	rice bacterial blight disease resistance|BB|BBRS|leaf blight	5
+30444888	842733	['NPR1', 'npr1', 'AtNPR1']	2	TO:0000204	rice seedling blight disease resistance|kresek|leaf blight|SDLBTRS	3
+30444888	842733	['NPR1', 'npr1', 'AtNPR1']	2	TO:0000315	bacterial disease resistance	2
+30444888	842733	['NPR1', 'npr1', 'AtNPR1']	2	TO:0000770	bacterial blight disease resistance	2
+30541427	827269	['AtEsd4']	1	TO:0000014	panicle weight|PNWT	1
+30541427	827269	['AtEsd4']	1	TO:0000181	seed weight|SDWT	1
+30541427	827269	['AtEsd4']	1	TO:0000207	plant height|Ht|PTHT|shoot height	1
+30541427	827269	['AtEsd4']	1	TO:0000387	plant trait|plant phenotype|plant quality	1
+30541427	827269	['AtEsd4']	1	TO:0000639	seed fertility|percent seed fertility|SDFRT	1
+30600409	819554	['D14', 'AtD14']	2	TO:0000171	height trait	1
+30600409	819554	['D14', 'AtD14']	2	TO:0000207	plant height|Ht|PTHT|shoot height	2
+30600409	819554	['D14', 'AtD14']	2	TO:0000329	tillering ability|Ti|TIAB	2
+30600409	819554	['D14', 'AtD14']	2	TO:0000371	yield trait|YLD	1
+30600409	819554	['D14', 'AtD14']	2	TO:0000387	plant trait|plant phenotype|plant quality	1
+30600409	819554	['D14', 'AtD14']	2	TO:0000396	grain yield trait|GRYLD|Yld	1
+30600409	819554	['D14', 'AtD14']	2	TO:0000576	stem length|CmL|core length|culm height|culm length|CULMLG|stem height|STEMLG	1
+30600409	819554	['D14', 'AtD14']	2	TO:0002687	cell elongation trait|cell length	1
+30619400	4340746	['HD1', 'Hd1', 'Heading date 1', 'hd1']	8	TO:0000881	flower type	1
+30619400	4344784	['DTH8']	1	TO:0000881	flower type	1
+30619400	107276161	['Ghd7']	1	TO:0000881	flower type	1
+30619400	107276289	['Ehd1']	1	TO:0000881	flower type	1
+30619400	4340184	['RFT1']	1	TO:0000881	flower type	1
+30619400	4340185	['Hd3a']	1	TO:0000881	flower type	1
+30737149	851220	['DEP1']	4	TO:0000371	yield trait|YLD	1
+30737149	851220	['DEP1']	4	TO:0000396	grain yield trait|GRYLD|Yld	1
+30737149	851220	['DEP1']	4	TO:0000919	grain weight|20 kernel weight|caryopsis fruit weight|GRWT|kernel weight|kwt	2
+30737149	851220	['DEP1']	4	TO:0002759	grain number|GRNB|kernel number	5
+30737149	851220	['DEP1']	4	TO:0000040	panicle length|PnL|PNLG	1
+30737149	851220	['DEP1']	4	TO:0000152	panicle number|NOP|NP|number of effective tiller per plant|number of panicle|panicle number per plant|panicle number per tiller|PN|PNNB|seed setting tillers per plant|spike number|TP	1
+30737149	851220	['DEP1']	4	TO:0000346	tiller number|TINB	1
+30737149	851220	['DEP1']	4	TO:0000399	grain thickness|GRTH	1
+30737149	851220	['DEP1']	4	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	1
+30737149	851220	['DEP1']	4	TO:0000975	grain width|caryopsis width|kernel width	1
+30737149	851220	['DEP1']	4	TO:0002626	fruit length|grain length|GRLG|pod length	1
+30730020	831749	['HsfA3']	1	TO:0000072	awn length|An|awning|AWNLG	1
+30730020	831749	['HsfA3']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+30730020	836093	['HSP18.2']	1	TO:0000072	awn length|An|awning|AWNLG	1
+30730020	836093	['HSP18.2']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+30802973	4346885	['TPP7']	2	TO:0001007	coleoptile length	4
+30885140	829695	['TKPR1']	1	TO:0000053	pollen sterility	1
+30885140	829695	['TKPR1']	1	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+30923230	838804	['brassinosteroid-insensitive1 SUPPRESSOR1', 'BSU1']	3	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	3
+30923230	838804	['brassinosteroid-insensitive1 SUPPRESSOR1', 'BSU1']	3	TO:0002626	fruit length|grain length|GRLG|pod length	3
+30923230	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2', 'BRASSINOSTEROID INSENSITIVE 2']	2	TO:0000734	grain length|DHULGRLG|GRLG|KERLG|kernel length|length of dehulled grain|length of grain without hull	3
+30923230	827605	['BRASSINOSTEROID-INSENSITIVE2', 'BIN2', 'BRASSINOSTEROID INSENSITIVE 2']	2	TO:0002626	fruit length|grain length|GRLG|pod length	3
+30941543	835397	['RCAR3']	4	TO:0000063	mimic response|disease mimic response|lesion mimic|MIRP	1
+30941543	835397	['RCAR3']	4	TO:0000615	abscisic acid sensitivity|ABA response|ABASN|abscisic acid response	2
+30989404	823964	['eds1', 'AtEDS1', 'EDS1', 'ateds1']	8	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	4
+31004187	10758	['Act1']	4	TO:0000173	ethylene sensitivity|ETHSN|ethylene response	1
+31021015	8651	['TDR INTERACTION PROTEIN 3', 'TIP3', 'tip3']	10	TO:0000437	male sterility|degree of male sterility of male sterile lines|male sterility measure|MALEST	1
+31021015	8651	['TDR INTERACTION PROTEIN 3', 'TIP3', 'tip3']	10	TO:0000421	pollen fertility|POFRT	1
+31024591	828715	['RPS2']	2	TO:0000380	planthopper	1
+31024591	828715	['RPS2']	2	TO:0000424	brown planthopper resistance|BPH|BPHRS	1
+31024591	828715	['RPS2']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+31024591	819889	['RPM1']	2	TO:0000380	planthopper	1
+31024591	819889	['RPM1']	2	TO:0000424	brown planthopper resistance|BPH|BPHRS	1
+31024591	819889	['RPM1']	2	TO:0000112	disease resistance|disease control|disease resistance trait|disease susceptibility|disease tolerance	1
+30945674	100817074	['NAC8']	1	TO:0000598	protein content|PROTCN|total protein content	2
+30945674	732553	['NAC2']	1	TO:0000598	protein content|PROTCN|total protein content	2
+30945674	100499186	['NAC6']	1	TO:0000598	protein content|PROTCN|total protein content	2
+31079034	816305	['WUSCHEL', 'WUS', 'wus']	2	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+31079034	816305	['WUSCHEL', 'WUS', 'wus']	2	TO:0006038	floral organ number	1
+31079034	817267	['CLAVATA3', 'CLV3', 'AtCLV3']	1	TO:0000456	spikelet number|number of spikelets per panicle|spikelet number per panicle|SPKNB	1
+31079034	817267	['CLAVATA3', 'CLV3', 'AtCLV3']	1	TO:0006038	floral organ number	1
+31113977	838138	['AVP1']	7	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	3
+31113977	838138	['AVP1']	7	TO:0000259	heat tolerance|HTol	1
+31113977	838138	['AVP1']	7	TO:0006001	salt tolerance|SALTTL	1
+31113977	838138	['AVP1']	7	TO:0000168	abiotic stress trait|abiotic stress tolerance	2
+31118231	837559	['MPK1', 'mpk1', 'mitogen-activated protein kinase', 'MPK']	4	TO:0000194	globular embryo	1
+31141272	4340746	['HD1', 'Hd1', 'Heading date 1', 'hd1']	3	TO:0000557	secondary branch number|SBRNB|secondary branches per panicle	1
+31200078	829408	['LA1', 'AtLA1']	8	TO:0000017	plant morphology trait|plant architecture trait|plant structure trait	1
+31200078	829408	['LA1', 'AtLA1']	8	TO:0000337	kneeing ability|KnA|KNEAB|tiller angle	4
+31200078	829408	['LA1', 'AtLA1']	8	TO:0000387	plant trait|plant phenotype|plant quality	2
+31200078	829408	['LA1', 'AtLA1']	8	TO:0000567	tiller angle|TIAG	4
+31227607	825754	['OSCA1']	3	TO:0000701	turgor pressure|TURGPRES	1
+31234778	4340018	['Wxb']	2	TO:0000196	amylose content|Amy|AMYCN	1
+31234778	4340018	['Wxb']	2	TO:0000294	leaf sheath auricle color|AC|AUCL	4
+31234778	4340018	['Wxb']	2	TO:0000105	dull endosperm|glassy endosperm	1
+31234778	4340018	['Wxb']	2	TO:0000587	endosperm quality|End|endosperm quality	2
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000085	leaf rolling|LFRL|wilting	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000207	plant height|Ht|PTHT|shoot height	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000241	leaf number|LFNB	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000346	tiller number|TINB	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000387	plant trait|plant phenotype|plant quality	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000541	leaf position|leaf height|LFHT	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0006064	rolled leaf	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000180	spikelet fertility|percent sterility|seed setting|SpFert|SPKFRT	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000421	pollen fertility|POFRT	1
+31396773	841262	['ARGONAUTE 1', 'AGO1']	4	TO:0000639	seed fertility|percent seed fertility|SDFRT	1
+31410483	843693	['PIN-FORMED1', 'PIN1', 'AtPIN1']	4	TO:1000009	branch angle|branching angle|shoot axis branch angle	2
+31491808	820364	['AtUBP13']	2	TO:0000259	heat tolerance|HTol	1
+31491808	820364	['AtUBP13']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	1
+31485784	42273	['dNK']	4	TO:0000069	variegated leaf|albino leaf striping|leaf stripes	1
+31485784	42273	['dNK']	4	TO:0000495	chlorophyll content|CHLCN	1
+31485784	42273	['dNK']	4	TO:0000072	awn length|An|awning|AWNLG	1
+31548267	820408	['RBR', 'AtRBR']	2	TO:0006018	organ identity	1
+31548267	835935	['AtMSI1']	1	TO:0006018	organ identity	1
+31754432	543847	['OVATE']	1	TO:0002628	fruit shape|pod shape	2
+31754432	543847	['OVATE']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+31754432	101255872	['SlCRK1']	1	TO:0002628	fruit shape|pod shape	2
+31754432	101255872	['SlCRK1']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+31754432	101261755	['LAT52']	1	TO:0002628	fruit shape|pod shape	2
+31754432	101261755	['LAT52']	1	TO:0000430	germination rate|germination speed|GERMRATE|GERMSP	1
+31786672	818764	['MIZ1', 'MIZU-KUSSEI1']	5	TO:0000276	drought tolerance|drought resistance|DRTL	2
+31786672	818764	['MIZ1', 'MIZU-KUSSEI1']	5	TO:0006001	salt tolerance|SALTTL	2
+31786672	818764	['MIZ1', 'MIZU-KUSSEI1']	5	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	2
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	4
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0000143	relative biomass|RB|relative biomass yield|RELBIOM	1
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0000478	abscisic acid concentration|ABA concentration|ABACONC|abscisic acid accumulation|abscisic acid content	1
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0000495	chlorophyll content|CHLCN	1
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0000496	carotenoid content|CRTCN	1
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0000605	hydrogen peroxide content|H2O2 content|H2O2CN	1
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0001016	relative chlorophyll content	1
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0002667	abscisic acid content|ABA content|ABACN	2
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:0020092	copper content trait|Cu content	1
+31816902	821824	['Heat Shock Protein', 'heat shock protein']	2	TO:1000033	root system copper content|root Cu content	1
+31816902	28721236	['peroxidase']	1	TO:0000164	stress trait|crop damage|stress resistance|stress susceptibility|stress tolerance	4
+31816902	28721236	['peroxidase']	1	TO:0000143	relative biomass|RB|relative biomass yield|RELBIOM	1
+31816902	28721236	['peroxidase']	1	TO:0000478	abscisic acid concentration|ABA concentration|ABACONC|abscisic acid accumulation|abscisic acid content	1
+31816902	28721236	['peroxidase']	1	TO:0000495	chlorophyll content|CHLCN	1
+31816902	28721236	['peroxidase']	1	TO:0000496	carotenoid content|CRTCN	1
+31816902	28721236	['peroxidase']	1	TO:0000605	hydrogen peroxide content|H2O2 content|H2O2CN	1
+31816902	28721236	['peroxidase']	1	TO:0001016	relative chlorophyll content	1
+31816902	28721236	['peroxidase']	1	TO:0002667	abscisic acid content|ABA content|ABACN	2
+31816902	28721236	['peroxidase']	1	TO:0020092	copper content trait|Cu content	1
+31816902	28721236	['peroxidase']	1	TO:1000033	root system copper content|root Cu content	1
+31857634	818973	['SSI2', 'FAB2']	1	TO:0000072	awn length|An|awning|AWNLG	1
+31857634	820387	['FAD2']	1	TO:0000072	awn length|An|awning|AWNLG	1
+31857634	817548;820288;830441	['FAD3/7/8']	1	TO:0000072	awn length|An|awning|AWNLG	1
+31857634	829220	['FAD6']	1	TO:0000072	awn length|An|awning|AWNLG	1
+31857634	832873	['DES1']	1	TO:0000072	awn length|An|awning|AWNLG	1
+31857634	825331	['SLD1']	1	TO:0000072	awn length|An|awning|AWNLG	1
+31862941	4325003	['qPH1/OsGA20ox2']	1	TO:0000256	genetic trait	1
+31862941	4325003	['qPH1/OsGA20ox2']	1	TO:0000162	grain quality trait	1
+31862941	4325003	['qPH1/OsGA20ox2']	1	TO:0000371	yield trait|YLD	2
+31862941	4325003	['qPH1/OsGA20ox2']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+31862941	4331445	['OsMADS50']	2	TO:0000256	genetic trait	1
+31862941	4331445	['OsMADS50']	2	TO:0000162	grain quality trait	1
+31862941	4331445	['OsMADS50']	2	TO:0000371	yield trait|YLD	2
+31862941	4331445	['OsMADS50']	2	TO:0000396	grain yield trait|GRYLD|Yld	1
+31862941	9269602	['GS3']	1	TO:0000256	genetic trait	1
+31862941	9269602	['GS3']	1	TO:0000162	grain quality trait	1
+31862941	9269602	['GS3']	1	TO:0000371	yield trait|YLD	2
+31862941	9269602	['GS3']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+31862941	4344361	['OsNAS3']	1	TO:0000256	genetic trait	1
+31862941	4344361	['OsNAS3']	1	TO:0000162	grain quality trait	1
+31862941	4344361	['OsNAS3']	1	TO:0000371	yield trait|YLD	2
+31862941	4344361	['OsNAS3']	1	TO:0000396	grain yield trait|GRYLD|Yld	1
+31872463	4681	['NO3']	1	TO:0001017	water use efficiency|photosynthetic rate to transpiration rate ratio	1
+31889302	824383	['SEX4', 'Starch Excess 4', 'sex4']	4	TO:0000388	forage yield|FRGYLD|FY|straw yield	1
+31906256	606750	['PIG-K']	1	TO:0000241	leaf number|LFNB	1
+31906256	606750	['PIG-K']	1	TO:0000731	lignin content	1
+31906256	606750	['PIG-K']	1	TO:0000993	cellulose content	1
+31912314	832555	['AtFPF1', 'FPF1']	4	TO:0000267	inflorescence type|inflorescence type|INFLOTYPE	2
+31912314	832555	['AtFPF1', 'FPF1']	4	TO:0000881	flower type	1

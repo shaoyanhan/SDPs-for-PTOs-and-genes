@@ -1,0 +1,290 @@
+genename	relation	PTOterm	distance
+Skn	play	An	4
+Rac	introduced	lesion mimic	3
+CHL1	displayed	nitrate transport	4
+GRF1	indicate	stem elongation	4
+ALDH2a	discussed	submergence tolerance	3
+edr1	confers	disease resistance	3
+CaM	can	An	3
+DREB1A	induced	stress tolerance	6
+DREB1A	induced	drought tolerance	5
+SPS	indicated	SPS	0
+SPS	suggested	plant height	3
+SPS	suggested	SPS	0
+SPS	suggested	protein content	2
+SPS	suggested	relative plant height	3
+SPS	were	SPS	0
+SPS	concluded	SPS	0
+agd2	have	disease susceptibility	8
+agd2	is	disease resistance	4
+ALD1	is	disease resistance	7
+ERL1	contained	ethylene response	7
+PSY	began	carotenoid content	10
+CAD	is	lignin biosynthesis	7
+FON1	enlargement	floral organ number	5
+GS1	expressed	GS1	0
+GS1	were	GS1	0
+GLN1;2	were	GS1	6
+AKT1	isolated	potassium sensitivity	5
+AKT1	isolated	salt sensitivity	6
+AKT1	isolated	potassium uptake	5
+AGAMOUS	plays	meristem identity	3
+AGAMOUS	plays	meristem determinacy	4
+AGAMOUS	plays	organ identity	3
+AGAMOUS	plays	floral organ identity	3
+sulfiredoxin	plays	stress resistance	4
+Srx	plays	stress resistance	5
+isi1	show	seed set	4
+rHsp90	NaCl	salt tolerance	3
+Adh1	Adh1	submergence tolerance	4
+OSBZ8	is	stress tolerance	4
+OSBZ8	tolerance	salt tolerance	6
+SOS1	suppressed	salt sensitivity	4
+AtSOS1	OsCIPK24	salt sensitivity	5
+sos2	OsCIPK24	salt sensitivity	3
+sos3	OsCIPK24	salt sensitivity	4
+SOS	demonstrate	salt tolerance	2
+Pi36	showed	An	4
+WRKY45	knockdown	blast disease resistance	4
+WRKY45	knockdown	disease resistance	4
+WRKY45	propose	disease resistance	6
+BIN2	BIN2	plant phenotype	6
+AtSK21	BIN2	plant phenotype	7
+opr3	indicated	male sterility	6
+HSP90	are	disease resistance	4
+ems1	produce	male sterility	5
+rar1	displayed	disease resistance	3
+sgt1	displayed	disease resistance	5
+AtApx1	showed	stress tolerance	3
+AtApx2	showed	stress tolerance	3
+AtFSD1	showed	stress tolerance	4
+AtApx1	showed	oxidative stress	3
+AtApx2	showed	oxidative stress	3
+AtFSD1	showed	oxidative stress	4
+PMP3	complement	salt sensitivity	6
+PMP3	imply	stress tolerance	6
+prog1	disrupt	grain number	4
+SaM	show	male sterility	6
+SaF	show	male sterility	7
+RLK	provides	disease resistance	4
+TaCPS1	suggest	gibberellin biosynthesis	6
+TaCPS2	suggest	gibberellin biosynthesis	7
+TaCPS3	suggest	gibberellin biosynthesis	5
+SSI2	present	disease resistance	3
+AtNHX1	tolerance	stress tolerance	3
+AtSOS1	tolerance	stress tolerance	5
+PRE1	causes	leaf erect	6
+IBH1	causes	leaf erect	8
+HsfA4a	identified	heat tolerance	3
+HsfA4a	revealed	An	3
+DREB2A	showed	stress tolerance	5
+DREB2A	showed	drought tolerance	5
+Sdr4	cloned	seed dormancy	7
+Sdr4	regulated	seed dormancy	4
+Sdr4	regulated	seed maturation	4
+AtPAO3	detected	root activity	3
+NPR1	demonstrated	disease resistance	4
+StMYB1R-1	improved	stress tolerance	6
+StMYB1R-1	improved	drought tolerance	6
+StMYB1R-1	enhanced	drought tolerance	5
+NRT3.1	identified	nitrate transport	7
+AtCYN	exhibited	stress resistance	4
+AtSFR6	is	stress tolerance	4
+AtSFR6	represent	stress tolerance	3
+IDEF1	revealed	An	5
+HvIDEF1	revealed	An	6
+IDEF1	failed	germination rate	3
+AtMYB80	used	reversible male sterility	7
+AtMYB80	used	male sterility	7
+WIN1	indicate	drought tolerance	8
+SHN1	indicate	drought tolerance	7
+ABI5	factors	stress tolerance	4
+drm1	displayed	panicle number	7
+drm2	displayed	panicle number	6
+drm1	displayed	tiller number	9
+drm2	displayed	tiller number	8
+drm1	displayed	spikelet sterility	8
+drm2	displayed	spikelet sterility	7
+drm1	displayed	spikelet number	8
+drm2	displayed	spikelet number	7
+ASR1	improved	heat tolerance	6
+ASR1	improved	copper concentration	5
+ASR1	suggest	stress tolerance	5
+ASR1	suggest	oxidative stress	7
+HY1	observed	stress tolerance	9
+HY1	observed	oxidative stress	10
+pgr5	was	NPQ	5
+PGR5	reduced	NPQ	5
+vps22	had	chalky endosperm	4
+LEC2	binds	RY	8
+LEC2	binds	seed maturation	6
+xylosyltransferase	assessed	stem strength	5
+XylT	assessed	stem strength	5
+IRX9	resulted	stem strength	4
+irx9	resulted	stem strength	4
+XylT	resulted	stem strength	4
+TaCIPK14	protein	An	2
+AtMYB61	being	lignin biosynthesis	3
+ATX1	regulates	organ identity	5
+ATX1	regulates	floral organ identity	5
+RPK1	showed	salt tolerance	5
+HD1	found	plant phenotype	2
+AtPAD4	is	disease resistance	6
+ABA2	rescued	gibberellin biosynthesis	6
+aba2	rescued	gibberellin biosynthesis	6
+SUV3	reported	stress tolerance	5
+CYP78A13	revealed	grain length	4
+AtMYB80	Inhibition	male sterility	4
+MYB80	fused	male sterility	6
+MYB80	be	reversible male sterility	6
+MYB80	be	male sterility	6
+SUV3	reported	stress tolerance	3
+SHR	moved	root number	3
+orfB	generates	male sterility	7
+orfB	provide	male sterility	8
+PCR1	found	grain weight	3
+PCR1	suggests	grain weight	4
+Hrd3	investigated	endosperm quality	6
+EIN3	play	salt tolerance	4
+EIL1	play	salt tolerance	5
+AtMYB58	shown	lignin biosynthesis	5
+AtMYB63	shown	lignin biosynthesis	5
+AtMYB58	is	lignin biosynthesis	5
+AtMYB63	is	lignin biosynthesis	6
+MYB58	revealed	AC	5
+MYB63	revealed	AC	6
+nNOS	increased	drought tolerance	5
+nNOS	increased	salt tolerance	6
+nNOS	suggest	stress tolerance	5
+nNOS	suggest	drought tolerance	5
+nNOS	suggest	salt tolerance	5
+CAP350	show	grain quality trait	5
+SUSIBA2	offers	starch content	7
+GAMYB	cause	pollen sterility	5
+GAMYB	cause	spikelet sterility	5
+AtCCD7	inhibited	shoot branching	5
+BI-1	demonstrated	oxidative stress	4
+MYB	function	lignin biosynthesis	5
+NAC	function	lignin biosynthesis	6
+LPA1	exhibited	tiller angle	3
+AtSUC2	report	relative yield	4
+FdC2	exhibited	head date	5
+FdC2	exhibited	leaf color	4
+FdC2	exhibited	head color	4
+RCN1	involved	abscisic acid accumulation	5
+HO-1	confirmed	Ht	3
+HO-1	blocked	Ht	2
+HO-1	blocked	sodium content	3
+HO-1	reserved	Ht	2
+HO-1	blocked	Ht	5
+AKT1	suggest	stress tolerance	4
+AKT1	suggest	drought sensitivity	5
+AKT1	suggest	drought tolerance	4
+PaO	mutated	Thr	3
+bt2	Expression	nitrate uptake	5
+bt1	Expression	nitrate uptake	6
+FC1	isolated	culm strength	4
+FC1	isolated	culm thickness	5
+ALD1	proposed	GM	5
+ATPF	demonstrated	TP	3
+PSAA	demonstrated	TP	3
+PSAB	demonstrated	TP	2
+PSBB	demonstrated	TP	3
+ATPF	revealed	TP	4
+PSAA	revealed	TP	5
+PSAB	revealed	TP	6
+PSBB	revealed	TP	5
+Kox	investigated	stomatal conductance	3
+PHYTOCHROME	applied	drought tolerance	6
+Ghd7	reduced	plant height	3
+Ghd7	reduced	grain number	4
+d2	exhibited	tiller angle	4
+D2	is	tiller angle	6
+SPS1	resulted	SPS	5
+sps1	resulted	SPS	5
+sps1	grew	SPS	7
+Pi54	hinting	RF	5
+Rf1	restores	CMS	5
+AtSIZ1	plays	drought sensitivity	5
+AtSIZ1	plays	salt sensitivity	6
+SIZ1	leads	stress tolerance	6
+AtSIZ1	leads	stress tolerance	7
+SIZ1	leads	abiotic stress tolerance	6
+AtSIZ1	leads	abiotic stress tolerance	7
+SIZ1	leads	heat tolerance	5
+AtSIZ1	leads	heat tolerance	6
+SIZ1	leads	drought tolerance	6
+AtSIZ1	leads	drought tolerance	7
+AtGolS2	was	drought tolerance	6
+AtGolS2	revealed	drought tolerance	3
+BIN2	RESISTANT1	grain weight	6
+BIN2	RESISTANT1	grain width	6
+AtICE1	demonstrated	cold tolerance	5
+COPT1	increases	iron concentration	3
+COPT1	increases	copper concentration	4
+SaF	proved	pollen sterility	4
+SaF	proved	male sterility	4
+catalase	have	chlorophyll content	4
+CAT	have	chlorophyll content	4
+peroxidase	have	chlorophyll content	3
+POD	have	chlorophyll content	4
+catalase	have	hydrogen peroxide content	3
+CAT	have	hydrogen peroxide content	3
+peroxidase	have	hydrogen peroxide content	2
+POD	have	hydrogen peroxide content	3
+AtNAS1	maize	carotene content	4
+AtHY5	In	plant height	7
+OTUB1	show	plant architecture trait	6
+OTUB1	show	plant trait	6
+GLO3	indicate	enzymatic activity	4
+AtTOR	revealed	shoot meristem development	3
+AtTOR	revealed	root meristem development	3
+AtTOR	revealed	shoot apical meristem development	3
+HCAR	was	leaf necrosis	5
+hcar	was	leaf necrosis	5
+HCAR	was	oxidative stress	6
+hcar	was	oxidative stress	6
+BAF1	hypothesize	branch angle	3
+BAD1	hypothesize	branch angle	2
+miR159	suggests	grain size	3
+miR159	suggests	stem size	3
+miR159	suggests	leaf size	3
+PELOTA	indicate	leaf blight	6
+AtMYC2	showed	disease resistance	3
+AtMYC2	showed	bacterial disease resistance	4
+DL1	competes	shoot branching	6
+RLK	acid	stem elongation	7
+oxidoreductase	reveal	planthopper	8
+DEP1	showed	grain number	3
+TPP7	found	coleoptile length	3
+AtEDS1	enhanced	disease susceptibility	2
+AtEDS1	signaling	disease resistance	3
+AtEDS1	is	disease resistance	4
+TIP3	characterized	male sterility	4
+TIP3	reveal	pollen fertility	8
+AVP1	showed	stress tolerance	3
+AVP1	showed	heat tolerance	3
+AVP1	showed	salt tolerance	3
+AVP1	studied	stress tolerance	5
+AVP1	studied	abiotic stress tolerance	5
+AVP1	was	stress tolerance	6
+AVP1	was	abiotic stress tolerance	6
+LA1	showed	tiller angle	4
+LA1	confirmed	tiller angle	6
+Wxb	investigated	AC	3
+Wxb	indicate	dull endosperm	5
+Wxb	indicate	AC	2
+Wxb	indicate	endosperm quality	4
+AtUBP13	increased	stress tolerance	5
+OVATE	identified	fruit shape	8
+MIZ1	identified	stress tolerance	8
+peroxidase	showed	relative biomass	5
+peroxidase	showed	stress tolerance	4
+peroxidase	showed	abscisic acid content	4
+peroxidase	showed	chlorophyll content	4
+peroxidase	showed	carotenoid content	3
+peroxidase	showed	hydrogen peroxide content	4
+peroxidase	showed	relative chlorophyll content	4
+PPDK	isolated	PPDK	0
+PPDK	was	PPDK	0
+PPDK	examined	PPDK	0
