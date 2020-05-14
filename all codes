@@ -321,28 +321,6 @@ for i in pto_dic.keys():
         print(pto_dic[i])
 
 
-doc=nlp(z1[2][3])
-edges=[]
-for token in doc:
-    for child in token.children:
-        edges.append(('{0}'.format(token.lower_),'{0}'.format(child.lower_)))
-graph=nx.Graph(edges)
-entity1=z1[2][1].lower()
-entity2=z1[2][2].lower()
-s=0
-for j in z1[2][2].split(' '):
-     s=s+nx.shortest_path_length(graph,source=entity1,target=j)
-distance=int((s/len(z1[2][2].split(' ')))+0.5)
-print(z1[2][1])
-print(z1[2][2])
-print(nx.shortest_path(graph,source=entity1,target=z1[2][2].split(' ')[0]))
-print(nx.shortest_path(graph,source=entity1,target=z1[2][2].split(' ')[1]))
-
-#txt=[]
-#for i in range(0, len(doc)):
-#     txt.append(str(doc[i]))
-
-
 wf = open('/Users/macbookair/Downloads/SDP(excepet).txt', 'w' , encoding="utf-8")
 wf.write('genename\trelation\tPTOterm\tdistance\n')
 fail_count=0
