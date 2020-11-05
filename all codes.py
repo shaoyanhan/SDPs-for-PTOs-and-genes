@@ -1,3 +1,8 @@
+# Program: SDPs-for-PTOs-and-genes
+# Author：生信1702 邵燕涵 2017317220205
+# Software：PyCharm 2020.1.1 (Community Edition)
+# Enviroment：python3.7
+
 pip install /Users/macbookair/Downloads/en_core_web_sm-2.2.5.tar.gz
 import spacy
 import networkx as nx
